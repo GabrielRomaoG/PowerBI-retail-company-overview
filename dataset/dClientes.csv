@@ -1,0 +1,823 @@
+Código Cliente,Primeiro Nome,Sobrenome,Sexo,Data de Nascimento,E-mail,Idade,Faixa Etária,Nome Completo,indiceFaixaEtaria,Faixa Etária v1
+1,Sthefeson,Pereira,M,"1957-01-04 00:00:00,000",sthefeson8@icloud.com,64,+ 60,Sthefeson Pereira,5,+ 60
+2,Antonio,Manhães,M,"1982-07-16 00:00:00,000",antonio19@hotmail.com.br,39,30 a 39,Antonio Manhães,2,30 a 39
+4,Silvio,Fahrnholz,M,"1976-06-19 00:00:00,000",silvio21@hotmail.com.br,45,40 a 49,Silvio Fahrnholz,3,40 a 49
+8,Leonardo,Ferreira,M,"1979-02-01 00:00:00,000",leonardo63@yahoo.com.br,42,40 a 49,Leonardo Ferreira,3,40 a 49
+12,Arthur,Rocha,M,"1968-06-11 00:00:00,000",arthur41@uol.com,53,50 a 59,Arthur Rocha,4,50 a 59
+13,Eduardo,Silva,M,"1955-11-18 00:00:00,000",eduardo57@live.com.br,65,+ 60,Eduardo Silva,5,+ 60
+14,João,Aires,M,"1954-12-12 00:00:00,000",joão17@live.com,66,+ 60,João Aires,5,+ 60
+15,Caio,Caldas,M,"1993-04-13 00:00:00,000",caio60@gmail.com.br,28,20 a 29,Caio Caldas,1,20 a 29
+16,Tiago,Pereira,M,"1953-11-01 00:00:00,000",tiago48@icloud.com.br,67,+ 60,Tiago Pereira,5,+ 60
+18,Bernardo,Botelho,M,"1983-05-23 00:00:00,000",bernardo50@outlook.com,38,30 a 39,Bernardo Botelho,2,30 a 39
+19,Victor,Ferreira,M,"1981-03-10 00:00:00,000",victor4@msn.com.br,40,40 a 49,Victor Ferreira,3,40 a 49
+21,Ruan,Lopes,M,"2000-03-23 00:00:00,000",ruan49@yahoo.com.br,21,20 a 29,Ruan Lopes,1,20 a 29
+23,Alexandre,Rodriguez,M,"1964-03-09 00:00:00,000",alexandre44@uol.com,57,50 a 59,Alexandre Rodriguez,4,50 a 59
+27,Caio,Vianna,M,"1993-02-26 00:00:00,000",caio11@uol.com,28,20 a 29,Caio Vianna,1,20 a 29
+28,Bernardo,Nauenberg,M,"1993-11-01 00:00:00,000",bernardo69@msn.com,27,20 a 29,Bernardo Nauenberg,1,20 a 29
+29,Rodrigo,Bruno,M,"1962-01-18 00:00:00,000",rodrigo31@gmail.com,59,50 a 59,Rodrigo Bruno,4,50 a 59
+30,Pedro,Macckione,M,"1991-01-14 00:00:00,000",pedro10@terra.com,30,30 a 39,Pedro Macckione,2,30 a 39
+31,Giuseppe,Bhering,M,"1973-06-07 00:00:00,000",giuseppe44@yahoo.com.br,48,40 a 49,Giuseppe Bhering,3,40 a 49
+34,Wilson,Vianna,M,"1972-01-26 00:00:00,000",wilson38@live.com.br,49,40 a 49,Wilson Vianna,3,40 a 49
+39,Diogo,Peixoto,M,"1967-02-11 00:00:00,000",diogo68@yahoo.com.br,54,50 a 59,Diogo Peixoto,4,50 a 59
+40,Cícero,Lima,M,"1951-08-29 00:00:00,000",cícero39@msn.com,70,+ 60,Cícero Lima,5,+ 60
+41,Raphael,Kurtz,M,"1978-03-14 00:00:00,000",raphael54@icloud.com,43,40 a 49,Raphael Kurtz,3,40 a 49
+42,Fabio,Boccaletti,M,"1961-07-07 00:00:00,000",fabio35@icloud.com,60,+ 60,Fabio Boccaletti,5,+ 60
+48,Pedro,Jorge,M,"1994-10-04 00:00:00,000",pedro48@yahoo.com,27,20 a 29,Pedro Jorge,1,20 a 29
+51,Thiago,Miura,M,"1978-08-25 00:00:00,000",thiago56@msn.com,43,40 a 49,Thiago Miura,3,40 a 49
+54,Henrique,Oliveira,M,"1971-06-25 00:00:00,000",henrique5@hotmail.com.br,50,50 a 59,Henrique Oliveira,4,50 a 59
+55,Caio,Ferreira,M,"1984-12-30 00:00:00,000",caio55@icloud.com,36,30 a 39,Caio Ferreira,2,30 a 39
+58,Yasser,Calbucci,M,"1980-10-16 00:00:00,000",yasser55@hotmail.com,41,40 a 49,Yasser Calbucci,3,40 a 49
+59,Pedro,Costa,M,"1979-06-26 00:00:00,000",pedro42@yahoo.com.br,42,40 a 49,Pedro Costa,3,40 a 49
+61,Bruno,Freitas,M,"1977-12-27 00:00:00,000",bruno14@msn.com.br,43,40 a 49,Bruno Freitas,3,40 a 49
+62,Carlos,Portela,M,"1962-08-10 00:00:00,000",carlos69@msn.com,59,50 a 59,Carlos Portela,4,50 a 59
+65,Thomaz,Ferreira,M,"1969-08-15 00:00:00,000",thomaz10@uol.com.br,52,50 a 59,Thomaz Ferreira,4,50 a 59
+66,Marcos,Nucci,M,"1999-10-08 00:00:00,000",marcos48@hotmail.com,22,20 a 29,Marcos Nucci,1,20 a 29
+68,Júlio,Fraga,M,"1973-04-12 00:00:00,000",júlio11@uol.com,48,40 a 49,Júlio Fraga,3,40 a 49
+73,Thiago,Costa,M,"1953-04-09 00:00:00,000",thiago16@gmail.com,68,+ 60,Thiago Costa,5,+ 60
+77,Guilherme,Santos,M,"1981-07-12 00:00:00,000",guilherme57@uol.com.br,40,40 a 49,Guilherme Santos,3,40 a 49
+79,Caio,Moraes,M,"1956-12-16 00:00:00,000",caio63@msn.com,64,+ 60,Caio Moraes,5,+ 60
+82,Matheus,Gomes,M,"1962-12-01 00:00:00,000",matheus70@icloud.com,58,50 a 59,Matheus Gomes,4,50 a 59
+84,Diego,Marchesi,M,"1998-12-14 00:00:00,000",diego15@hotmail.com.br,22,20 a 29,Diego Marchesi,1,20 a 29
+87,Breno,Britto,M,"1971-05-09 00:00:00,000",breno45@yahoo.com.br,50,50 a 59,Breno Britto,4,50 a 59
+88,Bruno,Barcessat,M,"1989-02-27 00:00:00,000",bruno35@live.com,32,30 a 39,Bruno Barcessat,2,30 a 39
+89,Eduardo,Soares,M,"1966-01-19 00:00:00,000",eduardo10@gmail.com,55,50 a 59,Eduardo Soares,4,50 a 59
+91,Anderson,Martins,M,"1956-07-18 00:00:00,000",anderson45@yahoo.com,65,+ 60,Anderson Martins,5,+ 60
+92,Stefan,Santos,M,"1975-12-30 00:00:00,000",stefan69@gmail.com.br,45,40 a 49,Stefan Santos,3,40 a 49
+93,Leandro,Melo,M,"1999-01-20 00:00:00,000",leandro9@hotmail.com.br,22,20 a 29,Leandro Melo,1,20 a 29
+94,Roberto,Nogueira,M,"1975-04-27 00:00:00,000",roberto64@msn.com,46,40 a 49,Roberto Nogueira,3,40 a 49
+97,Gustavo,Junior,M,"1956-11-04 00:00:00,000",gustavo17@gmail.com,64,+ 60,Gustavo Junior,5,+ 60
+98,Rodrigo,Ramos,M,"1961-11-26 00:00:00,000",rodrigo69@yahoo.com.br,59,50 a 59,Rodrigo Ramos,4,50 a 59
+105,Luiz,Conceição,M,"1991-09-21 00:00:00,000",luiz35@outlook.com,30,30 a 39,Luiz Conceição,2,30 a 39
+106,Rafael,Carneiro,M,"1951-02-28 00:00:00,000",rafael45@yahoo.com.br,70,+ 60,Rafael Carneiro,5,+ 60
+107,Pedro,Santana,M,"1975-10-20 00:00:00,000",pedro53@msn.com,45,40 a 49,Pedro Santana,3,40 a 49
+108,Lucas,Chagas,M,"1986-11-12 00:00:00,000",lucas9@outlook.com,34,30 a 39,Lucas Chagas,2,30 a 39
+111,Wilson,Miranda,M,"1976-05-03 00:00:00,000",wilson57@msn.com,45,40 a 49,Wilson Miranda,3,40 a 49
+112,Thales,Andrade,M,"1971-04-10 00:00:00,000",thales9@gmail.com.br,50,50 a 59,Thales Andrade,4,50 a 59
+113,Matheus,Miranda,M,"1968-02-15 00:00:00,000",matheus30@msn.com.br,53,50 a 59,Matheus Miranda,4,50 a 59
+114,Miguel,Carneiro,M,"1981-05-29 00:00:00,000",miguel30@msn.com.br,40,40 a 49,Miguel Carneiro,3,40 a 49
+115,Caio,Silva,M,"1995-03-13 00:00:00,000",caio55@gmail.com.br,26,20 a 29,Caio Silva,1,20 a 29
+116,Rodrigo,Silva,M,"1995-04-20 00:00:00,000",rodrigo23@hotmail.com,26,20 a 29,Rodrigo Silva,1,20 a 29
+117,Rubens,Valente,M,"1950-02-01 00:00:00,000",rubens31@icloud.com.br,71,+ 60,Rubens Valente,5,+ 60
+118,Ian,Almeida,M,"1958-05-15 00:00:00,000",ian41@uol.com.br,63,+ 60,Ian Almeida,5,+ 60
+120,Victor,Firmino,M,"1983-06-07 00:00:00,000",victor20@msn.com,38,30 a 39,Victor Firmino,2,30 a 39
+122,Mateus,Polastri,M,"1969-05-29 00:00:00,000",mateus65@msn.com.br,52,50 a 59,Mateus Polastri,4,50 a 59
+126,Felipe,Mello,M,"1968-09-17 00:00:00,000",felipe27@yahoo.com.br,53,50 a 59,Felipe Mello,4,50 a 59
+128,David,Campelo,M,"1996-08-04 00:00:00,000",david12@outlook.com,25,20 a 29,David Campelo,1,20 a 29
+129,Felipe,Jorge,M,"1966-10-28 00:00:00,000",felipe45@outlook.com.br,54,50 a 59,Felipe Jorge,4,50 a 59
+130,Lucas,Villanova,M,"1994-10-18 00:00:00,000",lucas18@live.com.br,26,20 a 29,Lucas Villanova,1,20 a 29
+132,Ulisses,Arruda,M,"1971-06-23 00:00:00,000",ulisses51@hotmail.com,50,50 a 59,Ulisses Arruda,4,50 a 59
+133,Bruno,Silva,M,"1954-03-01 00:00:00,000",bruno54@outlook.com,67,+ 60,Bruno Silva,5,+ 60
+135,Rafael,Ramos,M,"1985-09-29 00:00:00,000",rafael47@icloud.com.br,36,30 a 39,Rafael Ramos,2,30 a 39
+137,Antonio,Bernhardt,M,"1973-07-24 00:00:00,000",antonio19@outlook.com,48,40 a 49,Antonio Bernhardt,3,40 a 49
+139,Alvaro,Kranz,M,"1980-10-18 00:00:00,000",alvaro48@icloud.com.br,40,40 a 49,Alvaro Kranz,3,40 a 49
+140,Lucas,Almeida,M,"1977-11-13 00:00:00,000",lucas50@live.com,43,40 a 49,Lucas Almeida,3,40 a 49
+141,Matheus,Moraes,M,"1953-12-15 00:00:00,000",matheus26@msn.com.br,67,+ 60,Matheus Moraes,5,+ 60
+142,Lázaro,Villanova,M,"1955-04-25 00:00:00,000",lázaro48@uol.com.br,66,+ 60,Lázaro Villanova,5,+ 60
+144,Guilherme,Lima,M,"1973-05-26 00:00:00,000",guilherme17@hotmail.com.br,48,40 a 49,Guilherme Lima,3,40 a 49
+145,Guilherme,Marchesi,M,"1986-12-04 00:00:00,000",guilherme7@icloud.com.br,34,30 a 39,Guilherme Marchesi,2,30 a 39
+146,Luiz,Freire,M,"1994-02-20 00:00:00,000",luiz17@live.com,27,20 a 29,Luiz Freire,1,20 a 29
+148,Guilherme,Assis,M,"1989-12-26 00:00:00,000",guilherme61@uol.com.br,31,30 a 39,Guilherme Assis,2,30 a 39
+149,Filipe,Barros,M,"1978-08-07 00:00:00,000",filipe16@outlook.com.br,43,40 a 49,Filipe Barros,3,40 a 49
+154,Rafael,Wajnsztok,M,"1993-06-23 00:00:00,000",rafael60@hotmail.com.br,28,20 a 29,Rafael Wajnsztok,1,20 a 29
+155,Pedro,Conceição,M,"1967-04-23 00:00:00,000",pedro54@gmail.com.br,54,50 a 59,Pedro Conceição,4,50 a 59
+158,João,Alves,M,"1963-03-25 00:00:00,000",joão58@outlook.com.br,58,50 a 59,João Alves,4,50 a 59
+160,João,Araujo,M,"1990-06-19 00:00:00,000",joão35@gmail.com,31,30 a 39,João Araujo,2,30 a 39
+161,Carlos,Melo,M,"1951-07-24 00:00:00,000",carlos19@msn.com,70,+ 60,Carlos Melo,5,+ 60
+162,Rubens,Netto,M,"1992-07-04 00:00:00,000",rubens53@hotmail.com,29,20 a 29,Rubens Netto,1,20 a 29
+165,Jorge,Carvalho,M,"1966-04-06 00:00:00,000",jorge5@gmail.com,55,50 a 59,Jorge Carvalho,4,50 a 59
+166,Marcelo,Magalhães,M,"1966-08-11 00:00:00,000",marcelo53@live.com,55,50 a 59,Marcelo Magalhães,4,50 a 59
+167,Danilo,Mendonça,M,"1961-08-06 00:00:00,000",danilo6@outlook.com,60,+ 60,Danilo Mendonça,5,+ 60
+169,Rodrigo,Mendes,M,"1970-01-22 00:00:00,000",rodrigo28@yahoo.com,51,50 a 59,Rodrigo Mendes,4,50 a 59
+172,Willian,Albino,M,"1999-03-09 00:00:00,000",willian52@icloud.com,22,20 a 29,Willian Albino,1,20 a 29
+175,Thiago,Veloso,M,"1982-05-15 00:00:00,000",thiago7@outlook.com.br,39,30 a 39,Thiago Veloso,2,30 a 39
+176,Sylvio,Bernhardt,M,"1978-09-01 00:00:00,000",sylvio8@live.com.br,43,40 a 49,Sylvio Bernhardt,3,40 a 49
+177,Lucas,Freitas,M,"1989-06-17 00:00:00,000",lucas38@hotmail.com,32,30 a 39,Lucas Freitas,2,30 a 39
+178,João,Capitulo,M,"1953-08-12 00:00:00,000",joão14@gmail.com,68,+ 60,João Capitulo,5,+ 60
+179,Felipe,Cavalcanti,M,"1995-07-21 00:00:00,000",felipe64@live.com.br,26,20 a 29,Felipe Cavalcanti,1,20 a 29
+182,Lucas,Assunção,M,"1954-11-08 00:00:00,000",lucas33@terra.com.br,66,+ 60,Lucas Assunção,5,+ 60
+183,Gustavo,Accardo,M,"1975-09-27 00:00:00,000",gustavo51@gmail.com.br,46,40 a 49,Gustavo Accardo,3,40 a 49
+185,Matheus,Tostes,M,"1977-04-12 00:00:00,000",matheus29@icloud.com.br,44,40 a 49,Matheus Tostes,3,40 a 49
+186,Renan,Melo,M,"1989-07-31 00:00:00,000",renan46@live.com,32,30 a 39,Renan Melo,2,30 a 39
+187,Victor,Lira,M,"1988-02-06 00:00:00,000",victor8@uol.com,33,30 a 39,Victor Lira,2,30 a 39
+188,Fabio,Ramos,M,"1966-07-13 00:00:00,000",fabio62@outlook.com,55,50 a 59,Fabio Ramos,4,50 a 59
+189,João,Menezes,M,"1973-11-09 00:00:00,000",joão34@hotmail.com.br,47,40 a 49,João Menezes,3,40 a 49
+190,Felipe,Freitas,M,"1989-07-16 00:00:00,000",felipe9@icloud.com.br,32,30 a 39,Felipe Freitas,2,30 a 39
+191,Raphael,Filho,M,"1960-12-02 00:00:00,000",raphael69@hotmail.com.br,60,+ 60,Raphael Filho,5,+ 60
+194,José,Jesus,M,"1953-02-27 00:00:00,000",josé5@yahoo.com,68,+ 60,José Jesus,5,+ 60
+197,Joao,Pereira,M,"1998-07-12 00:00:00,000",joao6@gmail.com,23,20 a 29,Joao Pereira,1,20 a 29
+201,Gabriel,Silva,M,"1962-10-05 00:00:00,000",gabriel62@msn.com.br,59,50 a 59,Gabriel Silva,4,50 a 59
+202,Pedro,Ronfini,M,"1983-09-15 00:00:00,000",pedro57@live.com,38,30 a 39,Pedro Ronfini,2,30 a 39
+203,Gabriel,Thome,M,"1984-04-18 00:00:00,000",gabriel66@hotmail.com.br,37,30 a 39,Gabriel Thome,2,30 a 39
+204,Alberto,Silveira,M,"1990-02-23 00:00:00,000",alberto58@icloud.com,31,30 a 39,Alberto Silveira,2,30 a 39
+205,Gabriel,Almeida,M,"1997-06-27 00:00:00,000",gabriel18@msn.com.br,24,20 a 29,Gabriel Almeida,1,20 a 29
+207,Jeferson,Sone,M,"1979-09-17 00:00:00,000",jeferson30@live.com.br,42,40 a 49,Jeferson Sone,3,40 a 49
+214,João,Siqueira,M,"1952-05-13 00:00:00,000",joão28@gmail.com.br,69,+ 60,João Siqueira,5,+ 60
+219,Hércules,Júnior,M,"1969-08-14 00:00:00,000",hércules18@uol.com,52,50 a 59,Hércules Júnior,4,50 a 59
+220,Nicolas,Monteiro,M,"1953-05-29 00:00:00,000",nicolas12@uol.com.br,68,+ 60,Nicolas Monteiro,5,+ 60
+223,Ramon,Araujo,M,"1977-02-14 00:00:00,000",ramon65@hotmail.com.br,44,40 a 49,Ramon Araujo,3,40 a 49
+225,Daniel,Terra,M,"1975-07-28 00:00:00,000",daniel65@terra.com,46,40 a 49,Daniel Terra,3,40 a 49
+228,Jorge,Fonseca,M,"1999-09-19 00:00:00,000",jorge61@icloud.com.br,22,20 a 29,Jorge Fonseca,1,20 a 29
+229,Rilson,Dias,M,"1951-11-25 00:00:00,000",rilson58@outlook.com,69,+ 60,Rilson Dias,5,+ 60
+230,Vittorio,Freitas,M,"1954-03-15 00:00:00,000",vittorio4@terra.com,67,+ 60,Vittorio Freitas,5,+ 60
+231,Juan,Fernandes,M,"1986-01-19 00:00:00,000",juan63@live.com.br,35,30 a 39,Juan Fernandes,2,30 a 39
+233,Guilherme,Merotto,M,"1965-09-04 00:00:00,000",guilherme17@live.com,56,50 a 59,Guilherme Merotto,4,50 a 59
+236,Carlos,Souza,M,"1986-11-13 00:00:00,000",carlos37@icloud.com.br,34,30 a 39,Carlos Souza,2,30 a 39
+238,Rogério,Pereira,M,"1999-04-28 00:00:00,000",rogério32@gmail.com,22,20 a 29,Rogério Pereira,1,20 a 29
+239,Roger,Rosa,M,"1954-04-29 00:00:00,000",roger64@uol.com,67,+ 60,Roger Rosa,5,+ 60
+240,Danilo,Alves,M,"1991-12-14 00:00:00,000",danilo55@outlook.com,29,20 a 29,Danilo Alves,1,20 a 29
+241,Guilherme,Monteiro,M,"1989-11-23 00:00:00,000",guilherme41@icloud.com.br,31,30 a 39,Guilherme Monteiro,2,30 a 39
+242,Breno,Quinto,M,"1976-10-25 00:00:00,000",breno22@msn.com,44,40 a 49,Breno Quinto,3,40 a 49
+246,Arthur,Souza,M,"1981-06-23 00:00:00,000",arthur42@uol.com,40,40 a 49,Arthur Souza,3,40 a 49
+248,Cézar,Santos,M,"1957-11-06 00:00:00,000",cézar7@gmail.com,63,+ 60,Cézar Santos,5,+ 60
+249,Hygor,Essaber,M,"1996-07-04 00:00:00,000",hygor59@outlook.com.br,25,20 a 29,Hygor Essaber,1,20 a 29
+251,Henrique,Villanova,M,"1959-03-15 00:00:00,000",henrique36@live.com,62,+ 60,Henrique Villanova,5,+ 60
+252,Philipe,Morete,M,"1965-09-23 00:00:00,000",philipe29@msn.com.br,56,50 a 59,Philipe Morete,4,50 a 59
+257,João,Junior,M,"1983-04-30 00:00:00,000",joão22@msn.com.br,38,30 a 39,João Junior,2,30 a 39
+259,Raphael,Machado,M,"1959-11-18 00:00:00,000",raphael44@icloud.com,61,+ 60,Raphael Machado,5,+ 60
+260,Marcelo,Pereira,M,"1976-10-22 00:00:00,000",marcelo22@hotmail.com,44,40 a 49,Marcelo Pereira,3,40 a 49
+262,Guilherme,Barbosa,M,"1997-12-14 00:00:00,000",guilherme63@live.com,23,20 a 29,Guilherme Barbosa,1,20 a 29
+265,Antônio,Oliveira,M,"1972-12-02 00:00:00,000",antônio42@terra.com,48,40 a 49,Antônio Oliveira,3,40 a 49
+266,Matheus,Gomes,M,"1962-05-03 00:00:00,000",matheus47@uol.com.br,59,50 a 59,Matheus Gomes,4,50 a 59
+267,Iuri,Barbosa,M,"2000-06-30 00:00:00,000",iuri28@msn.com,21,20 a 29,Iuri Barbosa,1,20 a 29
+270,Thiago,Lima,M,"1997-03-01 00:00:00,000",thiago25@msn.com.br,24,20 a 29,Thiago Lima,1,20 a 29
+272,João,Castilho,M,"1976-06-09 00:00:00,000",joão19@live.com,45,40 a 49,João Castilho,3,40 a 49
+274,Leandro,Ferreira,M,"1988-02-07 00:00:00,000",leandro26@gmail.com,33,30 a 39,Leandro Ferreira,2,30 a 39
+275,Lucas,Lacerda,M,"2000-07-17 00:00:00,000",lucas11@icloud.com.br,21,20 a 29,Lucas Lacerda,1,20 a 29
+276,Vitor,Arruda,M,"1995-05-17 00:00:00,000",vitor35@live.com.br,26,20 a 29,Vitor Arruda,1,20 a 29
+278,Platini,Heimlich,M,"1977-11-22 00:00:00,000",platini21@icloud.com.br,43,40 a 49,Platini Heimlich,3,40 a 49
+279,Luã,Sá,M,"1976-02-24 00:00:00,000",luã48@terra.com,45,40 a 49,Luã Sá,3,40 a 49
+282,Helvio,Pedrosa,M,"1966-07-28 00:00:00,000",helvio34@msn.com,55,50 a 59,Helvio Pedrosa,4,50 a 59
+283,Renan,Freire,M,"1957-04-30 00:00:00,000",renan10@hotmail.com.br,64,+ 60,Renan Freire,5,+ 60
+285,Pedro,Sena,M,"1981-12-09 00:00:00,000",pedro58@live.com.br,39,30 a 39,Pedro Sena,2,30 a 39
+287,Raphael,Ferman,M,"1970-11-16 00:00:00,000",raphael54@live.com,50,50 a 59,Raphael Ferman,4,50 a 59
+289,Caio,Affonso,M,"1967-06-28 00:00:00,000",caio23@icloud.com.br,54,50 a 59,Caio Affonso,4,50 a 59
+291,Pedro,Xavier,M,"1990-10-02 00:00:00,000",pedro11@gmail.com.br,31,30 a 39,Pedro Xavier,2,30 a 39
+292,Bruno,Mota,M,"1988-12-05 00:00:00,000",bruno62@yahoo.com,32,30 a 39,Bruno Mota,2,30 a 39
+293,Wilson,Meirelles,M,"1960-10-18 00:00:00,000",wilson63@uol.com.br,61,+ 60,Wilson Meirelles,5,+ 60
+294,Daniel,Valente,M,"1984-11-20 00:00:00,000",daniel34@hotmail.com.br,36,30 a 39,Daniel Valente,2,30 a 39
+295,Leandro,Rodrigues,M,"1985-10-01 00:00:00,000",leandro34@live.com,36,30 a 39,Leandro Rodrigues,2,30 a 39
+296,Guilherme,Jordao,M,"1989-05-14 00:00:00,000",guilherme11@hotmail.com.br,32,30 a 39,Guilherme Jordao,2,30 a 39
+303,Danilo,Rubim,M,"1964-11-08 00:00:00,000",danilo43@gmail.com,56,50 a 59,Danilo Rubim,4,50 a 59
+304,Thiago,Nóbrega,M,"1956-06-14 00:00:00,000",thiago13@uol.com,65,+ 60,Thiago Nóbrega,5,+ 60
+307,Bruno,Ursulino,M,"1986-11-20 00:00:00,000",bruno38@hotmail.com,34,30 a 39,Bruno Ursulino,2,30 a 39
+308,Giuseppe,Borges,M,"1951-04-14 00:00:00,000",giuseppe68@uol.com,70,+ 60,Giuseppe Borges,5,+ 60
+313,Pedro,Cardoso,M,"1963-09-22 00:00:00,000",pedro51@terra.com.br,58,50 a 59,Pedro Cardoso,4,50 a 59
+314,Lucas,Baptista,M,"1977-05-31 00:00:00,000",lucas44@hotmail.com.br,44,40 a 49,Lucas Baptista,3,40 a 49
+315,Lucas,Fontoura,M,"1988-04-08 00:00:00,000",lucas59@hotmail.com.br,33,30 a 39,Lucas Fontoura,2,30 a 39
+316,Lucas,Wanderley,M,"1984-06-10 00:00:00,000",lucas35@hotmail.com,37,30 a 39,Lucas Wanderley,2,30 a 39
+317,Henrique,Lencastre,M,"1968-02-28 00:00:00,000",henrique3@live.com.br,53,50 a 59,Henrique Lencastre,4,50 a 59
+320,Rafael,Rocha,M,"2000-08-24 00:00:00,000",rafael6@live.com.br,21,20 a 29,Rafael Rocha,1,20 a 29
+323,Rodrigo,Feijo,M,"1970-05-16 00:00:00,000",rodrigo64@live.com,51,50 a 59,Rodrigo Feijo,4,50 a 59
+324,Adriano,Silva,M,"1980-06-05 00:00:00,000",adriano65@yahoo.com.br,41,40 a 49,Adriano Silva,3,40 a 49
+325,José,Fonseca,M,"1951-06-03 00:00:00,000",josé39@hotmail.com,70,+ 60,José Fonseca,5,+ 60
+328,Bruno,Ferreira,M,"1961-08-05 00:00:00,000",bruno51@msn.com,60,+ 60,Bruno Ferreira,5,+ 60
+329,Jonatas,Passos,M,"1973-09-21 00:00:00,000",jonatas36@yahoo.com,48,40 a 49,Jonatas Passos,3,40 a 49
+330,João,Tabet,M,"1982-04-21 00:00:00,000",joão28@icloud.com,39,30 a 39,João Tabet,2,30 a 39
+331,João,Silva,M,"1955-11-03 00:00:00,000",joão5@outlook.com,65,+ 60,João Silva,5,+ 60
+332,Lucas,Rodrigues,M,"1986-06-06 00:00:00,000",lucas68@gmail.com,35,30 a 39,Lucas Rodrigues,2,30 a 39
+336,Lucas,Lima,M,"1977-04-29 00:00:00,000",lucas62@yahoo.com.br,44,40 a 49,Lucas Lima,3,40 a 49
+339,Patrick,Silva,M,"1968-12-11 00:00:00,000",patrick69@outlook.com.br,52,50 a 59,Patrick Silva,4,50 a 59
+341,Gabriel,Thoni,M,"1991-08-19 00:00:00,000",gabriel33@msn.com.br,30,30 a 39,Gabriel Thoni,2,30 a 39
+342,Lucas,Araújo,M,"1978-02-07 00:00:00,000",lucas38@outlook.com,43,40 a 49,Lucas Araújo,3,40 a 49
+343,Daniel,Felippe,M,"1988-01-25 00:00:00,000",daniel67@outlook.com,33,30 a 39,Daniel Felippe,2,30 a 39
+344,Arthur,Fernandes,M,"1995-06-01 00:00:00,000",arthur67@gmail.com.br,26,20 a 29,Arthur Fernandes,1,20 a 29
+347,Renan,Nucci,M,"1986-03-26 00:00:00,000",renan15@gmail.com.br,35,30 a 39,Renan Nucci,2,30 a 39
+348,João,Fonseca,M,"1992-02-13 00:00:00,000",joão46@uol.com,29,20 a 29,João Fonseca,1,20 a 29
+349,Jônatas,Tanaka,M,"1994-08-03 00:00:00,000",jônatas22@outlook.com.br,27,20 a 29,Jônatas Tanaka,1,20 a 29
+352,Breno,Costa,M,"1971-03-27 00:00:00,000",breno18@uol.com.br,50,50 a 59,Breno Costa,4,50 a 59
+353,Khaio,Mesquita,M,"1967-10-24 00:00:00,000",khaio54@outlook.com.br,53,50 a 59,Khaio Mesquita,4,50 a 59
+354,Lucas,Lemos,M,"1999-01-03 00:00:00,000",lucas48@terra.com,22,20 a 29,Lucas Lemos,1,20 a 29
+355,João,Júnior,M,"1976-09-23 00:00:00,000",joão13@hotmail.com,45,40 a 49,João Júnior,3,40 a 49
+356,Caio,Silva,M,"1973-08-15 00:00:00,000",caio6@terra.com.br,48,40 a 49,Caio Silva,3,40 a 49
+357,Carlos,Mesquita,M,"1987-11-28 00:00:00,000",carlos70@live.com.br,33,30 a 39,Carlos Mesquita,2,30 a 39
+358,Luiz,Limp,M,"1981-09-13 00:00:00,000",luiz43@icloud.com.br,40,40 a 49,Luiz Limp,3,40 a 49
+362,Lucas,Coelho,M,"1952-03-02 00:00:00,000",lucas17@hotmail.com.br,69,+ 60,Lucas Coelho,5,+ 60
+364,Eduardo,Nunes,M,"1995-09-29 00:00:00,000",eduardo3@terra.com,26,20 a 29,Eduardo Nunes,1,20 a 29
+366,João,Monteiro,M,"1984-01-29 00:00:00,000",joão63@live.com.br,37,30 a 39,João Monteiro,2,30 a 39
+367,Matheus,Santos,M,"1990-02-09 00:00:00,000",matheus50@live.com.br,31,30 a 39,Matheus Santos,2,30 a 39
+372,Marcelo,Rosa,M,"2000-06-03 00:00:00,000",marcelo11@outlook.com.br,21,20 a 29,Marcelo Rosa,1,20 a 29
+374,Lucas,Rocha,M,"1974-05-27 00:00:00,000",lucas63@outlook.com.br,47,40 a 49,Lucas Rocha,3,40 a 49
+377,Eduardo,Veiga,M,"1996-01-29 00:00:00,000",eduardo63@terra.com,25,20 a 29,Eduardo Veiga,1,20 a 29
+378,Carlos,Cardoso,M,"1957-09-25 00:00:00,000",carlos30@live.com,64,+ 60,Carlos Cardoso,5,+ 60
+379,Alex,Fernandes,M,"1974-12-24 00:00:00,000",alex47@terra.com,46,40 a 49,Alex Fernandes,3,40 a 49
+382,Lenon,Fernandes,M,"1975-10-14 00:00:00,000",lenon35@yahoo.com.br,46,40 a 49,Lenon Fernandes,3,40 a 49
+383,Antônio,Soares,M,"1977-07-27 00:00:00,000",antônio36@terra.com,44,40 a 49,Antônio Soares,3,40 a 49
+387,Daniel,Ortiz,M,"1968-06-17 00:00:00,000",daniel64@terra.com,53,50 a 59,Daniel Ortiz,4,50 a 59
+388,Audir,Franco,M,"1977-10-17 00:00:00,000",audir20@msn.com,44,40 a 49,Audir Franco,3,40 a 49
+391,Gabriel,Puntel,M,"1999-12-01 00:00:00,000",gabriel56@hotmail.com,21,20 a 29,Gabriel Puntel,1,20 a 29
+392,José,Seixas,M,"1952-01-31 00:00:00,000",josé14@gmail.com.br,69,+ 60,José Seixas,5,+ 60
+395,Brenno,Santos,M,"1955-05-24 00:00:00,000",brenno21@live.com,66,+ 60,Brenno Santos,5,+ 60
+396,Ulisses,Filho,M,"1955-11-17 00:00:00,000",ulisses54@uol.com,65,+ 60,Ulisses Filho,5,+ 60
+397,Pedro,Ferrari,M,"1971-11-13 00:00:00,000",pedro3@hotmail.com,49,40 a 49,Pedro Ferrari,3,40 a 49
+400,Jônatas,Castro,M,"1970-05-25 00:00:00,000",jônatas54@terra.com.br,51,50 a 59,Jônatas Castro,4,50 a 59
+401,Renan,Firmino,M,"1953-02-16 00:00:00,000",renan63@gmail.com,68,+ 60,Renan Firmino,5,+ 60
+403,Pedro,Rodrigues,M,"1984-09-12 00:00:00,000",pedro43@terra.com.br,37,30 a 39,Pedro Rodrigues,2,30 a 39
+404,Caio,Moura,M,"1959-10-01 00:00:00,000",caio26@gmail.com,62,+ 60,Caio Moura,5,+ 60
+405,João,Pedrazza,M,"1956-07-16 00:00:00,000",joão20@uol.com.br,65,+ 60,João Pedrazza,5,+ 60
+406,Daniel,Araujo,M,"1995-05-19 00:00:00,000",daniel66@outlook.com,26,20 a 29,Daniel Araujo,1,20 a 29
+408,Diego,Rodrigues,M,"1972-02-17 00:00:00,000",diego54@icloud.com,49,40 a 49,Diego Rodrigues,3,40 a 49
+411,Eduardo,Vargas,M,"1981-08-11 00:00:00,000",eduardo56@uol.com,40,40 a 49,Eduardo Vargas,3,40 a 49
+414,Breno,Varella,M,"1984-10-04 00:00:00,000",breno9@icloud.com.br,37,30 a 39,Breno Varella,2,30 a 39
+416,Daniel,Alcoforado,M,"1970-02-06 00:00:00,000",daniel33@gmail.com.br,51,50 a 59,Daniel Alcoforado,4,50 a 59
+418,Fillipe,Almeida,M,"1954-10-11 00:00:00,000",fillipe17@icloud.com,67,+ 60,Fillipe Almeida,5,+ 60
+419,Victor,Magalhães,M,"1970-03-15 00:00:00,000",victor65@yahoo.com.br,51,50 a 59,Victor Magalhães,4,50 a 59
+420,Bárbara,Lima,M,"1961-07-28 00:00:00,000",bárbara25@outlook.com.br,60,+ 60,Bárbara Lima,5,+ 60
+422,Bárbara,Cavalcante,M,"1994-11-12 00:00:00,000",bárbara61@yahoo.com.br,26,20 a 29,Bárbara Cavalcante,1,20 a 29
+423,Pedro,Lyra,M,"2000-05-31 00:00:00,000",pedro48@hotmail.com.br,21,20 a 29,Pedro Lyra,1,20 a 29
+424,Roberto,Mattos,M,"1950-04-11 00:00:00,000",roberto60@hotmail.com.br,71,+ 60,Roberto Mattos,5,+ 60
+425,Eric,Júnior,M,"1989-02-23 00:00:00,000",eric24@msn.com.br,32,30 a 39,Eric Júnior,2,30 a 39
+428,Gustavo,Thome,M,"1988-04-19 00:00:00,000",gustavo66@outlook.com.br,33,30 a 39,Gustavo Thome,2,30 a 39
+430,Luísa,Fonseca,M,"1985-02-24 00:00:00,000",luísa38@outlook.com,36,30 a 39,Luísa Fonseca,2,30 a 39
+431,Carlos,Assis,M,"1958-06-03 00:00:00,000",carlos17@msn.com,63,+ 60,Carlos Assis,5,+ 60
+441,Pedro,Oliveira,M,"1993-11-06 00:00:00,000",pedro7@terra.com.br,27,20 a 29,Pedro Oliveira,1,20 a 29
+442,Breno,Caputo,M,"1961-07-21 00:00:00,000",breno23@yahoo.com.br,60,+ 60,Breno Caputo,5,+ 60
+444,David,Assumpção,M,"1996-01-19 00:00:00,000",david25@yahoo.com,25,20 a 29,David Assumpção,1,20 a 29
+445,Thomáz,Rodriguez,M,"1973-06-08 00:00:00,000",thomáz63@hotmail.com,48,40 a 49,Thomáz Rodriguez,3,40 a 49
+446,Lucas,Machado,M,"1977-03-12 00:00:00,000",lucas13@hotmail.com.br,44,40 a 49,Lucas Machado,3,40 a 49
+448,Rogério,Gentile,M,"1999-01-30 00:00:00,000",rogério33@live.com.br,22,20 a 29,Rogério Gentile,1,20 a 29
+449,Itai,Puntel,M,"1956-11-18 00:00:00,000",itai19@terra.com,64,+ 60,Itai Puntel,5,+ 60
+450,Thales,Fanara,M,"1976-11-18 00:00:00,000",thales51@terra.com,44,40 a 49,Thales Fanara,3,40 a 49
+452,Daniel,Monteiro,M,"1961-12-18 00:00:00,000",daniel65@gmail.com.br,59,50 a 59,Daniel Monteiro,4,50 a 59
+455,Eric,Neves,M,"1970-02-27 00:00:00,000",eric12@outlook.com.br,51,50 a 59,Eric Neves,4,50 a 59
+456,Marcelo,Borges,M,"1981-04-22 00:00:00,000",marcelo53@terra.com.br,40,40 a 49,Marcelo Borges,3,40 a 49
+457,Gustavo,Gomes,M,"1988-11-18 00:00:00,000",gustavo23@live.com,32,30 a 39,Gustavo Gomes,2,30 a 39
+458,Gabriel,Soares,M,"1960-03-09 00:00:00,000",gabriel18@uol.com,61,+ 60,Gabriel Soares,5,+ 60
+460,Maurício,Dias,M,"1966-09-04 00:00:00,000",maurício4@yahoo.com.br,55,50 a 59,Maurício Dias,4,50 a 59
+461,Raul,Silveira,M,"1955-10-21 00:00:00,000",raul31@gmail.com,66,+ 60,Raul Silveira,5,+ 60
+462,Nathan,Morelli,M,"1971-08-08 00:00:00,000",nathan38@yahoo.com,50,50 a 59,Nathan Morelli,4,50 a 59
+464,Anderson,Barreto,M,"1985-11-29 00:00:00,000",anderson60@outlook.com,35,30 a 39,Anderson Barreto,2,30 a 39
+468,Thales,Santos,M,"1997-09-24 00:00:00,000",thales38@terra.com,24,20 a 29,Thales Santos,1,20 a 29
+469,Breno,Godoy,M,"2000-10-20 00:00:00,000",breno20@terra.com,20,20 a 29,Breno Godoy,1,20 a 29
+471,Júlio,Freire,M,"1997-12-17 00:00:00,000",júlio69@outlook.com.br,23,20 a 29,Júlio Freire,1,20 a 29
+474,Juan,Barbosa,M,"1964-08-21 00:00:00,000",juan41@outlook.com.br,57,50 a 59,Juan Barbosa,4,50 a 59
+476,Renan,Nascimento,M,"1989-04-16 00:00:00,000",renan63@outlook.com.br,32,30 a 39,Renan Nascimento,2,30 a 39
+481,Bernardo,Ribeiro,M,"1950-07-13 00:00:00,000",bernardo41@hotmail.com.br,71,+ 60,Bernardo Ribeiro,5,+ 60
+482,Guilherme,Castilho,M,"1970-11-03 00:00:00,000",guilherme13@hotmail.com,50,50 a 59,Guilherme Castilho,4,50 a 59
+483,Lucas,Reis,M,"1958-10-22 00:00:00,000",lucas60@yahoo.com.br,63,+ 60,Lucas Reis,5,+ 60
+485,Anízio,Carvalho,M,"1990-10-31 00:00:00,000",anízio64@hotmail.com,30,30 a 39,Anízio Carvalho,2,30 a 39
+487,Paulo,Campos,M,"1997-01-10 00:00:00,000",paulo14@outlook.com,24,20 a 29,Paulo Campos,1,20 a 29
+489,Rafael,Guimarães,M,"1998-01-28 00:00:00,000",rafael32@icloud.com,23,20 a 29,Rafael Guimarães,1,20 a 29
+491,André,Alves,M,"1965-09-15 00:00:00,000",andré21@icloud.com.br,56,50 a 59,André Alves,4,50 a 59
+494,José,Carvalho,M,"1985-05-21 00:00:00,000",josé42@gmail.com,36,30 a 39,José Carvalho,2,30 a 39
+496,João,Bach,M,"1981-04-04 00:00:00,000",joão29@live.com.br,40,40 a 49,João Bach,3,40 a 49
+497,Luiz,Almeida,M,"1955-06-08 00:00:00,000",luiz54@live.com.br,66,+ 60,Luiz Almeida,5,+ 60
+499,Luiz,Mendonça,M,"1985-04-28 00:00:00,000",luiz36@yahoo.com.br,36,30 a 39,Luiz Mendonça,2,30 a 39
+502,Sthefeson,Kohn,M,"1991-04-14 00:00:00,000",sthefeson66@yahoo.com,30,30 a 39,Sthefeson Kohn,2,30 a 39
+503,Célio,Xavier,M,"1962-02-28 00:00:00,000",célio69@outlook.com,59,50 a 59,Célio Xavier,4,50 a 59
+504,Fabio,Sepúlveda,M,"1968-10-10 00:00:00,000",fabio47@msn.com,53,50 a 59,Fabio Sepúlveda,4,50 a 59
+505,Raphael,Guedes,M,"2000-12-24 00:00:00,000",raphael35@hotmail.com,20,20 a 29,Raphael Guedes,1,20 a 29
+506,Bruno,Souza,M,"1988-02-23 00:00:00,000",bruno57@outlook.com,33,30 a 39,Bruno Souza,2,30 a 39
+507,Gustavo,Erthal,M,"1951-05-09 00:00:00,000",gustavo48@live.com,70,+ 60,Gustavo Erthal,5,+ 60
+513,Bernard,Pedrosa,M,"1977-06-09 00:00:00,000",bernard19@yahoo.com.br,44,40 a 49,Bernard Pedrosa,3,40 a 49
+514,Pedro,Delgado,M,"2000-11-24 00:00:00,000",pedro7@live.com.br,20,20 a 29,Pedro Delgado,1,20 a 29
+517,Rodrigo,Alves,M,"1985-07-16 00:00:00,000",rodrigo69@icloud.com.br,36,30 a 39,Rodrigo Alves,2,30 a 39
+518,Guilherme,Seixas,M,"1974-03-12 00:00:00,000",guilherme44@terra.com.br,47,40 a 49,Guilherme Seixas,3,40 a 49
+519,Thomáz,Bôas,M,"1961-02-22 00:00:00,000",thomáz63@uol.com,60,+ 60,Thomáz Bôas,5,+ 60
+520,Guilherme,Vianna,M,"1990-12-23 00:00:00,000",guilherme12@gmail.com,30,30 a 39,Guilherme Vianna,2,30 a 39
+525,João,Oliveira,M,"1991-01-23 00:00:00,000",joão44@live.com,30,30 a 39,João Oliveira,2,30 a 39
+529,Rodrigo,Souza,M,"1979-07-12 00:00:00,000",rodrigo3@yahoo.com.br,42,40 a 49,Rodrigo Souza,3,40 a 49
+531,Gabriel,Brito,M,"1951-03-07 00:00:00,000",gabriel3@msn.com,70,+ 60,Gabriel Brito,5,+ 60
+533,Pedro,Martins,M,"1980-08-28 00:00:00,000",pedro56@live.com.br,41,40 a 49,Pedro Martins,3,40 a 49
+534,Tadeu,Sousa,M,"1983-02-20 00:00:00,000",tadeu39@terra.com.br,38,30 a 39,Tadeu Sousa,2,30 a 39
+536,Eduardo,Pacheco,M,"1992-09-11 00:00:00,000",eduardo69@hotmail.com.br,29,20 a 29,Eduardo Pacheco,1,20 a 29
+537,Guilherme,Rachide,M,"1959-07-20 00:00:00,000",guilherme37@live.com.br,62,+ 60,Guilherme Rachide,5,+ 60
+538,Thales,Portillo,M,"1954-11-07 00:00:00,000",thales18@hotmail.com,66,+ 60,Thales Portillo,5,+ 60
+541,Felipe,Paulo,M,"1958-01-02 00:00:00,000",felipe45@icloud.com.br,63,+ 60,Felipe Paulo,5,+ 60
+544,Raphael,Rezende,M,"1969-10-28 00:00:00,000",raphael17@hotmail.com.br,51,50 a 59,Raphael Rezende,4,50 a 59
+545,Iuri,Neto,M,"1970-06-16 00:00:00,000",iuri44@uol.com,51,50 a 59,Iuri Neto,4,50 a 59
+547,Carlos,Galvão,M,"1993-03-31 00:00:00,000",carlos56@icloud.com.br,28,20 a 29,Carlos Galvão,1,20 a 29
+548,Raul,Junqueira,M,"1980-08-25 00:00:00,000",raul69@gmail.com.br,41,40 a 49,Raul Junqueira,3,40 a 49
+549,Bruno,Salomão,M,"1972-09-21 00:00:00,000",bruno15@icloud.com,49,40 a 49,Bruno Salomão,3,40 a 49
+550,Victor,Zakhm,M,"1958-03-27 00:00:00,000",victor40@live.com.br,63,+ 60,Victor Zakhm,5,+ 60
+552,Ruan,Gonçalves,M,"1957-12-30 00:00:00,000",ruan10@outlook.com.br,63,+ 60,Ruan Gonçalves,5,+ 60
+554,Bernardo,Soares,M,"1985-04-18 00:00:00,000",bernardo69@uol.com,36,30 a 39,Bernardo Soares,2,30 a 39
+556,Tadeu,Nakayama,M,"1984-05-29 00:00:00,000",tadeu10@yahoo.com,37,30 a 39,Tadeu Nakayama,2,30 a 39
+558,Allan,Candido,M,"1956-06-22 00:00:00,000",allan46@terra.com.br,65,+ 60,Allan Candido,5,+ 60
+560,João,Costa,M,"1987-04-16 00:00:00,000",joão28@outlook.com,34,30 a 39,João Costa,2,30 a 39
+561,Wellington,Duarte,M,"1970-07-09 00:00:00,000",wellington4@outlook.com,51,50 a 59,Wellington Duarte,4,50 a 59
+562,Pedro,Pereira,M,"1988-02-01 00:00:00,000",pedro16@terra.com,33,30 a 39,Pedro Pereira,2,30 a 39
+563,Breno,Farias,M,"1979-01-17 00:00:00,000",breno50@terra.com.br,42,40 a 49,Breno Farias,3,40 a 49
+566,Renan,Cunha,M,"1990-12-23 00:00:00,000",renan51@hotmail.com,30,30 a 39,Renan Cunha,2,30 a 39
+567,Pedro,Ayres,M,"1960-12-06 00:00:00,000",pedro10@yahoo.com.br,60,+ 60,Pedro Ayres,5,+ 60
+568,Guilherme,Lima,M,"1972-06-18 00:00:00,000",guilherme26@uol.com,49,40 a 49,Guilherme Lima,3,40 a 49
+569,Carlos,Barbosa,M,"1983-06-19 00:00:00,000",carlos45@yahoo.com.br,38,30 a 39,Carlos Barbosa,2,30 a 39
+571,Carlos,Silva,M,"1966-02-09 00:00:00,000",carlos31@live.com,55,50 a 59,Carlos Silva,4,50 a 59
+572,Victor,Gomes,M,"1978-10-26 00:00:00,000",victor24@live.com,42,40 a 49,Victor Gomes,3,40 a 49
+574,Stefan,Nunes,M,"1961-11-20 00:00:00,000",stefan50@icloud.com,59,50 a 59,Stefan Nunes,4,50 a 59
+575,Jackson,Derossi,M,"1987-08-03 00:00:00,000",jackson38@live.com,34,30 a 39,Jackson Derossi,2,30 a 39
+576,Gabriel,Rubim,M,"1957-07-16 00:00:00,000",gabriel48@live.com.br,64,+ 60,Gabriel Rubim,5,+ 60
+578,Felipe,Júnior,M,"1964-10-21 00:00:00,000",felipe61@icloud.com,57,50 a 59,Felipe Júnior,4,50 a 59
+579,João,Ribeiro,M,"1977-08-21 00:00:00,000",joão40@uol.com,44,40 a 49,João Ribeiro,3,40 a 49
+580,Diego,Barros,M,"1989-05-26 00:00:00,000",diego14@hotmail.com,32,30 a 39,Diego Barros,2,30 a 39
+584,Lucas,Monte,M,"1979-11-15 00:00:00,000",lucas5@outlook.com,41,40 a 49,Lucas Monte,3,40 a 49
+585,Eric,Carvalho,M,"1955-07-24 00:00:00,000",eric22@icloud.com.br,66,+ 60,Eric Carvalho,5,+ 60
+586,Raphael,Coelho,M,"1999-07-03 00:00:00,000",raphael55@yahoo.com.br,22,20 a 29,Raphael Coelho,1,20 a 29
+588,Arthur,Pereira,M,"1984-05-21 00:00:00,000",arthur13@gmail.com.br,37,30 a 39,Arthur Pereira,2,30 a 39
+589,Caio,Fernandes,M,"1993-11-16 00:00:00,000",caio32@msn.com,27,20 a 29,Caio Fernandes,1,20 a 29
+590,Thiago,Veiga,M,"1986-12-18 00:00:00,000",thiago70@live.com.br,34,30 a 39,Thiago Veiga,2,30 a 39
+591,Pedro,Oliveira,M,"1994-02-05 00:00:00,000",pedro56@msn.com,27,20 a 29,Pedro Oliveira,1,20 a 29
+592,Pedro,Buraco,M,"1961-08-04 00:00:00,000",pedro39@live.com.br,60,+ 60,Pedro Buraco,5,+ 60
+593,Jeferson,Costa,M,"1985-03-30 00:00:00,000",jeferson37@msn.com,36,30 a 39,Jeferson Costa,2,30 a 39
+594,Eduardo,Peluzo,M,"1993-03-23 00:00:00,000",eduardo64@hotmail.com.br,28,20 a 29,Eduardo Peluzo,1,20 a 29
+596,Pedro,Bitencourt,M,"1982-10-29 00:00:00,000",pedro62@gmail.com.br,38,30 a 39,Pedro Bitencourt,2,30 a 39
+597,Pedro,Santos,M,"1967-06-18 00:00:00,000",pedro44@icloud.com,54,50 a 59,Pedro Santos,4,50 a 59
+598,Cláudio,Aragão,M,"1965-01-14 00:00:00,000",cláudio21@msn.com.br,56,50 a 59,Cláudio Aragão,4,50 a 59
+602,Douglas,Rodrigues,M,"1992-09-21 00:00:00,000",douglas42@outlook.com,29,20 a 29,Douglas Rodrigues,1,20 a 29
+603,Victor,Franco,M,"1991-06-06 00:00:00,000",victor28@hotmail.com,30,30 a 39,Victor Franco,2,30 a 39
+604,Thomáz,Vannier,M,"1973-03-13 00:00:00,000",thomáz34@icloud.com,48,40 a 49,Thomáz Vannier,3,40 a 49
+611,Luiz,Campista,M,"1961-10-06 00:00:00,000",luiz40@uol.com,60,+ 60,Luiz Campista,5,+ 60
+612,Marcelo,Guadagnino,M,"1989-01-28 00:00:00,000",marcelo37@outlook.com,32,30 a 39,Marcelo Guadagnino,2,30 a 39
+613,Lucas,Valim,M,"1963-11-28 00:00:00,000",lucas3@live.com,57,50 a 59,Lucas Valim,4,50 a 59
+615,Bernardo,Borges,M,"1955-01-06 00:00:00,000",bernardo31@outlook.com,66,+ 60,Bernardo Borges,5,+ 60
+616,Luiz,Marinho,M,"1953-11-27 00:00:00,000",luiz27@icloud.com,67,+ 60,Luiz Marinho,5,+ 60
+620,Andre,Nóbrega,M,"1990-03-08 00:00:00,000",andre12@gmail.com.br,31,30 a 39,Andre Nóbrega,2,30 a 39
+621,Matheus,Silva,M,"1952-12-05 00:00:00,000",matheus33@icloud.com.br,68,+ 60,Matheus Silva,5,+ 60
+625,Gabriel,Rocha,M,"1959-11-03 00:00:00,000",gabriel33@yahoo.com,61,+ 60,Gabriel Rocha,5,+ 60
+626,Lázaro,Nascimento,M,"1956-11-26 00:00:00,000",lázaro48@terra.com,64,+ 60,Lázaro Nascimento,5,+ 60
+627,José,Vieira,M,"1967-02-19 00:00:00,000",josé30@live.com,54,50 a 59,José Vieira,4,50 a 59
+630,Lucas,Freire,M,"1958-12-03 00:00:00,000",lucas26@uol.com,62,+ 60,Lucas Freire,5,+ 60
+631,Igor,Lima,M,"1984-11-21 00:00:00,000",igor44@msn.com,36,30 a 39,Igor Lima,2,30 a 39
+632,João,Matheus,M,"1996-10-01 00:00:00,000",joão29@outlook.com,25,20 a 29,João Matheus,1,20 a 29
+633,Lucas,Junior,M,"1991-06-06 00:00:00,000",lucas21@live.com,30,30 a 39,Lucas Junior,2,30 a 39
+634,Alvaro,Ferreira,M,"1959-06-08 00:00:00,000",alvaro21@terra.com.br,62,+ 60,Alvaro Ferreira,5,+ 60
+636,Bruno,Velucci,M,"1974-03-11 00:00:00,000",bruno54@msn.com.br,47,40 a 49,Bruno Velucci,3,40 a 49
+637,João,Peçanha,M,"1977-12-13 00:00:00,000",joão70@outlook.com,43,40 a 49,João Peçanha,3,40 a 49
+639,Hiaiune,Valim,M,"1985-02-23 00:00:00,000",hiaiune55@icloud.com,36,30 a 39,Hiaiune Valim,2,30 a 39
+640,Wilson,Farias,M,"1983-07-08 00:00:00,000",wilson49@outlook.com,38,30 a 39,Wilson Farias,2,30 a 39
+648,Gabriel,Azevedo,M,"1984-02-27 00:00:00,000",gabriel65@uol.com,37,30 a 39,Gabriel Azevedo,2,30 a 39
+653,Matheus,Afonso,M,"1970-01-17 00:00:00,000",matheus28@live.com,51,50 a 59,Matheus Afonso,4,50 a 59
+655,Guido,Monteiro,M,"1960-02-17 00:00:00,000",guido25@live.com,61,+ 60,Guido Monteiro,5,+ 60
+656,Vinícius,Antunes,M,"1986-01-12 00:00:00,000",vinícius66@icloud.com,35,30 a 39,Vinícius Antunes,2,30 a 39
+658,Eduardo,Lopes,M,"1995-09-13 00:00:00,000",eduardo30@terra.com,26,20 a 29,Eduardo Lopes,1,20 a 29
+659,Pedro,Dalforne,M,"1985-04-21 00:00:00,000",pedro18@outlook.com,36,30 a 39,Pedro Dalforne,2,30 a 39
+661,Nathan,Rocha,M,"1960-08-05 00:00:00,000",nathan32@icloud.com.br,61,+ 60,Nathan Rocha,5,+ 60
+662,Audir,Ladogano,M,"1987-10-26 00:00:00,000",audir28@hotmail.com,33,30 a 39,Audir Ladogano,2,30 a 39
+664,Anderson,Cavalcanti,M,"1986-01-12 00:00:00,000",anderson70@msn.com,35,30 a 39,Anderson Cavalcanti,2,30 a 39
+665,Andre,Sampaio,M,"1997-02-06 00:00:00,000",andre52@gmail.com.br,24,20 a 29,Andre Sampaio,1,20 a 29
+666,Vitor,Campos,M,"1980-10-20 00:00:00,000",vitor8@live.com,40,40 a 49,Vitor Campos,3,40 a 49
+668,Eduardo,Quindeler,M,"1952-06-08 00:00:00,000",eduardo30@hotmail.com.br,69,+ 60,Eduardo Quindeler,5,+ 60
+669,Diego,Mello,M,"1988-06-22 00:00:00,000",diego66@icloud.com.br,33,30 a 39,Diego Mello,2,30 a 39
+670,Nathan,Cunha,M,"1991-06-30 00:00:00,000",nathan53@hotmail.com.br,30,30 a 39,Nathan Cunha,2,30 a 39
+671,Alexandre,Dantas,M,"1973-03-19 00:00:00,000",alexandre44@terra.com,48,40 a 49,Alexandre Dantas,3,40 a 49
+673,Pedro,Ribeiro,M,"1978-10-21 00:00:00,000",pedro62@outlook.com.br,42,40 a 49,Pedro Ribeiro,3,40 a 49
+674,Matheus,Ramos,M,"1969-08-24 00:00:00,000",matheus51@uol.com.br,52,50 a 59,Matheus Ramos,4,50 a 59
+675,Bruno,Temporal,M,"1966-03-04 00:00:00,000",bruno59@uol.com,55,50 a 59,Bruno Temporal,4,50 a 59
+676,Gabriel,Garcia,M,"1950-07-17 00:00:00,000",gabriel67@yahoo.com,71,+ 60,Gabriel Garcia,5,+ 60
+677,Sthefeson,Barroso,M,"1998-04-26 00:00:00,000",sthefeson42@msn.com.br,23,20 a 29,Sthefeson Barroso,1,20 a 29
+678,Gabriel,Ribeiro,M,"1961-03-19 00:00:00,000",gabriel3@uol.com,60,+ 60,Gabriel Ribeiro,5,+ 60
+683,Matheus,Figueiredo,M,"1978-01-03 00:00:00,000",matheus49@msn.com,43,40 a 49,Matheus Figueiredo,3,40 a 49
+684,Henrique,Souza,M,"1960-10-08 00:00:00,000",henrique14@terra.com,61,+ 60,Henrique Souza,5,+ 60
+687,Wilson,Brandão,M,"1952-06-06 00:00:00,000",wilson47@yahoo.com.br,69,+ 60,Wilson Brandão,5,+ 60
+688,Ulisses,Quinto,M,"1956-07-10 00:00:00,000",ulisses15@icloud.com.br,65,+ 60,Ulisses Quinto,5,+ 60
+689,Erick,Soares,M,"1990-02-12 00:00:00,000",erick68@gmail.com,31,30 a 39,Erick Soares,2,30 a 39
+690,Jônatas,Soares,M,"1969-09-10 00:00:00,000",jônatas31@terra.com.br,52,50 a 59,Jônatas Soares,4,50 a 59
+691,Lucas,Cavalcanti,M,"1991-09-23 00:00:00,000",lucas47@msn.com,30,30 a 39,Lucas Cavalcanti,2,30 a 39
+692,Mateus,Duque,M,"1966-12-03 00:00:00,000",mateus36@terra.com,54,50 a 59,Mateus Duque,4,50 a 59
+693,Caio,Cardoso,M,"1986-02-10 00:00:00,000",caio6@icloud.com.br,35,30 a 39,Caio Cardoso,2,30 a 39
+696,Daniel,Cardoso,M,"1976-11-20 00:00:00,000",daniel64@icloud.com.br,44,40 a 49,Daniel Cardoso,3,40 a 49
+698,Matheus,Silva,M,"1992-06-25 00:00:00,000",matheus56@terra.com.br,29,20 a 29,Matheus Silva,1,20 a 29
+700,Gabriel,Pereira,M,"1983-07-20 00:00:00,000",gabriel28@hotmail.com,38,30 a 39,Gabriel Pereira,2,30 a 39
+703,Mateus,Maia,M,"1997-07-13 00:00:00,000",mateus49@yahoo.com,24,20 a 29,Mateus Maia,1,20 a 29
+704,Guilherme,Azevedo,M,"1974-02-24 00:00:00,000",guilherme51@live.com,47,40 a 49,Guilherme Azevedo,3,40 a 49
+709,Carlos,Araujo,M,"1964-10-08 00:00:00,000",carlos35@outlook.com.br,57,50 a 59,Carlos Araujo,4,50 a 59
+710,Dykson,Silva,M,"1988-03-04 00:00:00,000",dykson39@yahoo.com,33,30 a 39,Dykson Silva,2,30 a 39
+714,Roberto,Tiradentes,M,"1998-04-11 00:00:00,000",roberto65@icloud.com,23,20 a 29,Roberto Tiradentes,1,20 a 29
+715,Daniel,Nauenberg,M,"1990-03-13 00:00:00,000",daniel54@gmail.com,31,30 a 39,Daniel Nauenberg,2,30 a 39
+718,Eduardo,Ferreira,M,"1980-04-21 00:00:00,000",eduardo18@hotmail.com,41,40 a 49,Eduardo Ferreira,3,40 a 49
+721,Mateus,Franco,M,"1963-11-15 00:00:00,000",mateus23@yahoo.com,57,50 a 59,Mateus Franco,4,50 a 59
+722,Alon,Pestana,M,"1999-09-16 00:00:00,000",alon41@icloud.com.br,22,20 a 29,Alon Pestana,1,20 a 29
+724,Victor,Gomes,M,"1955-07-03 00:00:00,000",victor26@icloud.com.br,66,+ 60,Victor Gomes,5,+ 60
+725,João,Abraçado,M,"1984-05-01 00:00:00,000",joão67@hotmail.com,37,30 a 39,João Abraçado,2,30 a 39
+727,Diego,Almeida,M,"2000-03-03 00:00:00,000",diego31@terra.com.br,21,20 a 29,Diego Almeida,1,20 a 29
+728,Gabriel,Assis,M,"1982-06-20 00:00:00,000",gabriel67@outlook.com,39,30 a 39,Gabriel Assis,2,30 a 39
+729,Alon,Palmeira,M,"1992-05-24 00:00:00,000",alon30@icloud.com.br,29,20 a 29,Alon Palmeira,1,20 a 29
+731,Thales,Gouvêa,M,"1984-06-30 00:00:00,000",thales48@msn.com.br,37,30 a 39,Thales Gouvêa,2,30 a 39
+733,Isaac,Santos,M,"1982-04-04 00:00:00,000",isaac24@uol.com.br,39,30 a 39,Isaac Santos,2,30 a 39
+739,Alon,Guedes,M,"1954-08-21 00:00:00,000",alon69@yahoo.com.br,67,+ 60,Alon Guedes,5,+ 60
+740,David,Vasconcelos,M,"1978-08-31 00:00:00,000",david21@outlook.com.br,43,40 a 49,David Vasconcelos,3,40 a 49
+743,Bruno,Oliveira,M,"1950-01-13 00:00:00,000",bruno10@outlook.com,71,+ 60,Bruno Oliveira,5,+ 60
+744,Joao,Silva,M,"1997-06-28 00:00:00,000",joao48@outlook.com,24,20 a 29,Joao Silva,1,20 a 29
+745,Pedro,Chou,M,"1951-07-08 00:00:00,000",pedro40@icloud.com.br,70,+ 60,Pedro Chou,5,+ 60
+746,Diogo,Ressurreição,M,"1955-07-19 00:00:00,000",diogo5@yahoo.com.br,66,+ 60,Diogo Ressurreição,5,+ 60
+747,Juan,Vasconcelos,M,"1953-07-29 00:00:00,000",juan37@uol.com,68,+ 60,Juan Vasconcelos,5,+ 60
+748,Vitor,Boccaletti,M,"1978-05-04 00:00:00,000",vitor61@msn.com.br,43,40 a 49,Vitor Boccaletti,3,40 a 49
+751,Felipe,Mendonça,M,"1950-11-16 00:00:00,000",felipe42@msn.com,70,+ 60,Felipe Mendonça,5,+ 60
+754,Victor,Soares,M,"1991-07-02 00:00:00,000",victor8@terra.com,30,30 a 39,Victor Soares,2,30 a 39
+755,Arthur,Portela,M,"1997-06-29 00:00:00,000",arthur44@msn.com.br,24,20 a 29,Arthur Portela,1,20 a 29
+756,Victor,Oliveira,M,"1952-10-13 00:00:00,000",victor4@gmail.com.br,69,+ 60,Victor Oliveira,5,+ 60
+758,Jonas,Gomes,M,"1970-05-16 00:00:00,000",jonas27@live.com.br,51,50 a 59,Jonas Gomes,4,50 a 59
+761,Renan,Ventura,M,"1992-09-24 00:00:00,000",renan9@outlook.com,29,20 a 29,Renan Ventura,1,20 a 29
+763,João,Rodrigues,M,"1967-05-26 00:00:00,000",joão66@live.com.br,54,50 a 59,João Rodrigues,4,50 a 59
+765,Cassio,Faria,M,"1964-05-01 00:00:00,000",cassio34@gmail.com,57,50 a 59,Cassio Faria,4,50 a 59
+766,Raphael,Mattos,M,"1985-06-30 00:00:00,000",raphael60@uol.com,36,30 a 39,Raphael Mattos,2,30 a 39
+767,Lucas,Aragão,M,"1991-12-15 00:00:00,000",lucas70@terra.com,29,20 a 29,Lucas Aragão,1,20 a 29
+768,Bernardo,Souza,M,"1983-11-30 00:00:00,000",bernardo46@msn.com.br,37,30 a 39,Bernardo Souza,2,30 a 39
+772,Lucas,Costa,M,"1950-09-04 00:00:00,000",lucas6@terra.com.br,71,+ 60,Lucas Costa,5,+ 60
+773,Matheus,Souza,M,"1975-03-08 00:00:00,000",matheus66@yahoo.com,46,40 a 49,Matheus Souza,3,40 a 49
+774,Matheus,Delgado,M,"1982-05-06 00:00:00,000",matheus8@live.com.br,39,30 a 39,Matheus Delgado,2,30 a 39
+775,Cícero,Ramos,M,"1964-04-26 00:00:00,000",cícero7@outlook.com.br,57,50 a 59,Cícero Ramos,4,50 a 59
+781,Rilson,Guedes,M,"1989-05-04 00:00:00,000",rilson9@yahoo.com.br,32,30 a 39,Rilson Guedes,2,30 a 39
+782,Hércules,Moreira,M,"1954-05-12 00:00:00,000",hércules67@live.com,67,+ 60,Hércules Moreira,5,+ 60
+784,Gustavo,Assis,M,"1965-10-31 00:00:00,000",gustavo61@terra.com,55,50 a 59,Gustavo Assis,4,50 a 59
+785,Gustavo,Aragão,M,"1979-10-02 00:00:00,000",gustavo46@uol.com.br,42,40 a 49,Gustavo Aragão,3,40 a 49
+787,Lucas,Destri,M,"1987-09-12 00:00:00,000",lucas68@hotmail.com,34,30 a 39,Lucas Destri,2,30 a 39
+788,Rafael,Portela,M,"1960-03-08 00:00:00,000",rafael68@uol.com.br,61,+ 60,Rafael Portela,5,+ 60
+789,Brenno,Miranda,M,"1983-04-28 00:00:00,000",brenno64@icloud.com.br,38,30 a 39,Brenno Miranda,2,30 a 39
+790,Allan,Guedes,M,"1991-12-15 00:00:00,000",allan47@uol.com,29,20 a 29,Allan Guedes,1,20 a 29
+791,Alon,Fahrnholz,M,"1954-10-22 00:00:00,000",alon70@uol.com,67,+ 60,Alon Fahrnholz,5,+ 60
+792,João,Luz,M,"2000-07-03 00:00:00,000",joão28@outlook.com.br,21,20 a 29,João Luz,1,20 a 29
+793,José,Marques,M,"1989-05-31 00:00:00,000",josé63@live.com.br,32,30 a 39,José Marques,2,30 a 39
+794,Gustavo,Azevedo,M,"1995-12-04 00:00:00,000",gustavo10@hotmail.com.br,25,20 a 29,Gustavo Azevedo,1,20 a 29
+795,Matheus,Sapir,M,"1955-07-15 00:00:00,000",matheus17@uol.com,66,+ 60,Matheus Sapir,5,+ 60
+797,Luiz,Xavier,M,"1984-08-25 00:00:00,000",luiz59@uol.com,37,30 a 39,Luiz Xavier,2,30 a 39
+799,João,Júnior,M,"1968-12-31 00:00:00,000",joão12@icloud.com,52,50 a 59,João Júnior,4,50 a 59
+801,Daniel,Costa,M,"1958-10-23 00:00:00,000",daniel36@yahoo.com,63,+ 60,Daniel Costa,5,+ 60
+803,Jonatas,Essaber,M,"1959-01-11 00:00:00,000",jonatas15@msn.com,62,+ 60,Jonatas Essaber,5,+ 60
+804,Silvio,Provenzano,M,"1989-03-28 00:00:00,000",silvio42@hotmail.com,32,30 a 39,Silvio Provenzano,2,30 a 39
+807,William,Mendonça,M,"1997-10-22 00:00:00,000",william27@msn.com,23,20 a 29,William Mendonça,1,20 a 29
+808,Gustavo,Guimarães,M,"1979-05-17 00:00:00,000",gustavo46@msn.com.br,42,40 a 49,Gustavo Guimarães,3,40 a 49
+809,Norman,Jimbo,M,"1959-08-27 00:00:00,000",norman54@outlook.com,62,+ 60,Norman Jimbo,5,+ 60
+810,Bruno,Junger,M,"1986-06-11 00:00:00,000",bruno50@uol.com,35,30 a 39,Bruno Junger,2,30 a 39
+811,Daniel,Sousa,M,"2000-10-02 00:00:00,000",daniel57@terra.com.br,21,20 a 29,Daniel Sousa,1,20 a 29
+812,Carlos,Azevedo,M,"1991-08-28 00:00:00,000",carlos42@gmail.com,30,30 a 39,Carlos Azevedo,2,30 a 39
+814,Igor,Azevedo,M,"1966-08-27 00:00:00,000",igor48@gmail.com,55,50 a 59,Igor Azevedo,4,50 a 59
+815,João,Guadagnino,M,"1950-10-04 00:00:00,000",joão45@msn.com.br,71,+ 60,João Guadagnino,5,+ 60
+816,Maike,Pereira,M,"1985-05-22 00:00:00,000",maike18@msn.com,36,30 a 39,Maike Pereira,2,30 a 39
+818,Henrique,Silva,M,"1964-04-23 00:00:00,000",henrique11@terra.com.br,57,50 a 59,Henrique Silva,4,50 a 59
+819,Leonardo,Faria,M,"1969-02-09 00:00:00,000",leonardo47@outlook.com.br,52,50 a 59,Leonardo Faria,4,50 a 59
+820,Lucas,Neto,M,"1962-12-06 00:00:00,000",lucas24@yahoo.com,58,50 a 59,Lucas Neto,4,50 a 59
+821,Victor,Corrêa,M,"1978-05-02 00:00:00,000",victor38@uol.com,43,40 a 49,Victor Corrêa,3,40 a 49
+3,Bianca,Paz,F,"1964-03-15 00:00:00,000",bianca53@live.com.br,57,50 a 59,Bianca Paz,4,50 a 59
+5,Luiza,Cabral,F,"1994-04-10 00:00:00,000",luiza70@msn.com,27,20 a 29,Luiza Cabral,1,20 a 29
+6,Ana,Silva,F,"1969-06-30 00:00:00,000",ana59@outlook.com.br,52,50 a 59,Ana Silva,4,50 a 59
+7,Natalia,Marinho,F,"1955-01-20 00:00:00,000",natalia44@icloud.com,66,+ 60,Natalia Marinho,5,+ 60
+9,Chan,Santos,F,"1989-05-16 00:00:00,000",chan17@uol.com,32,30 a 39,Chan Santos,2,30 a 39
+10,Fernanda,Ferreira,F,"1996-11-26 00:00:00,000",fernanda31@yahoo.com,24,20 a 29,Fernanda Ferreira,1,20 a 29
+11,Raissa,Negrelli,F,"1985-08-10 00:00:00,000",raissa28@yahoo.com.br,36,30 a 39,Raissa Negrelli,2,30 a 39
+17,Julia,Penteado,F,"1950-06-04 00:00:00,000",julia36@terra.com.br,71,+ 60,Julia Penteado,5,+ 60
+20,Thays,Castro,F,"1964-12-01 00:00:00,000",thays23@uol.com,56,50 a 59,Thays Castro,4,50 a 59
+22,Mariana,Baptista,F,"1991-09-14 00:00:00,000",mariana32@live.com,30,30 a 39,Mariana Baptista,2,30 a 39
+24,Natalia,Guedes,F,"1955-05-21 00:00:00,000",natalia20@outlook.com,66,+ 60,Natalia Guedes,5,+ 60
+25,Manuela,Merege,F,"2000-06-27 00:00:00,000",manuela43@uol.com.br,21,20 a 29,Manuela Merege,1,20 a 29
+26,Bruna,Ramos,F,"1990-09-20 00:00:00,000",bruna23@icloud.com,31,30 a 39,Bruna Ramos,2,30 a 39
+32,Isabela,Resende,F,"1951-12-26 00:00:00,000",isabela3@live.com.br,69,+ 60,Isabela Resende,5,+ 60
+33,Raíza,Lopes,F,"1982-08-30 00:00:00,000",raíza55@yahoo.com,39,30 a 39,Raíza Lopes,2,30 a 39
+35,Larissa,Florim,F,"1950-11-19 00:00:00,000",larissa64@outlook.com.br,70,+ 60,Larissa Florim,5,+ 60
+36,Luíza,Melo,F,"1960-01-11 00:00:00,000",luíza33@live.com.br,61,+ 60,Luíza Melo,5,+ 60
+37,Fernanda,Junior,F,"1975-04-11 00:00:00,000",fernanda51@live.com.br,46,40 a 49,Fernanda Junior,3,40 a 49
+38,Bianca,Procaci,F,"1972-07-31 00:00:00,000",bianca44@hotmail.com.br,49,40 a 49,Bianca Procaci,3,40 a 49
+43,Manuela,Ferreira,F,"1962-11-29 00:00:00,000",manuela41@icloud.com.br,58,50 a 59,Manuela Ferreira,4,50 a 59
+44,Juliana,Correa,F,"1956-10-10 00:00:00,000",juliana64@live.com,65,+ 60,Juliana Correa,5,+ 60
+45,Jéssica,Resinente,F,"1950-12-31 00:00:00,000",jéssica61@gmail.com.br,70,+ 60,Jéssica Resinente,5,+ 60
+46,Adrielle,Forte,F,"1967-05-29 00:00:00,000",adrielle46@hotmail.com,54,50 a 59,Adrielle Forte,4,50 a 59
+47,Thayna,Martins,F,"1999-05-03 00:00:00,000",thayna53@yahoo.com,22,20 a 29,Thayna Martins,1,20 a 29
+49,Juliana,Souza,F,"1953-05-09 00:00:00,000",juliana44@uol.com,68,+ 60,Juliana Souza,5,+ 60
+50,Tayla,Lima,F,"1995-06-18 00:00:00,000",tayla19@yahoo.com,26,20 a 29,Tayla Lima,1,20 a 29
+52,Beatriz,Silva,F,"1980-10-09 00:00:00,000",beatriz65@icloud.com,41,40 a 49,Beatriz Silva,3,40 a 49
+53,Juliana,Mesquita,F,"1955-08-24 00:00:00,000",juliana41@terra.com.br,66,+ 60,Juliana Mesquita,5,+ 60
+56,Myllena,Carneiro,F,"1966-04-14 00:00:00,000",myllena4@icloud.com.br,55,50 a 59,Myllena Carneiro,4,50 a 59
+57,Nina,Magalhães,F,"1959-07-19 00:00:00,000",nina61@hotmail.com,62,+ 60,Nina Magalhães,5,+ 60
+60,Clara,Bruno,F,"1968-07-02 00:00:00,000",clara25@icloud.com.br,53,50 a 59,Clara Bruno,4,50 a 59
+63,Aline,Morais,F,"1980-08-31 00:00:00,000",aline9@gmail.com.br,41,40 a 49,Aline Morais,3,40 a 49
+64,Livia,Corrêa,F,"1987-08-18 00:00:00,000",livia62@live.com.br,34,30 a 39,Livia Corrêa,2,30 a 39
+67,Andressa,Chou,F,"1997-08-07 00:00:00,000",andressa9@outlook.com,24,20 a 29,Andressa Chou,1,20 a 29
+69,Vanessa,Rodrigues,F,"1994-11-17 00:00:00,000",vanessa54@icloud.com.br,26,20 a 29,Vanessa Rodrigues,1,20 a 29
+70,Gabrielle,Costa,F,"1989-11-29 00:00:00,000",gabrielle4@yahoo.com,31,30 a 39,Gabrielle Costa,2,30 a 39
+71,Marina,Cormack,F,"1976-03-03 00:00:00,000",marina63@msn.com,45,40 a 49,Marina Cormack,3,40 a 49
+72,Bruna,Silveira,F,"1956-01-24 00:00:00,000",bruna29@msn.com.br,65,+ 60,Bruna Silveira,5,+ 60
+74,Mariana,Miranda,F,"1968-07-16 00:00:00,000",mariana41@yahoo.com,53,50 a 59,Mariana Miranda,4,50 a 59
+75,Adrielle,Vieira,F,"1976-07-03 00:00:00,000",adrielle50@msn.com,45,40 a 49,Adrielle Vieira,3,40 a 49
+76,Maria,Moita,F,"1958-02-01 00:00:00,000",maria27@yahoo.com,63,+ 60,Maria Moita,5,+ 60
+78,Maria,Gasperi,F,"1955-09-15 00:00:00,000",maria6@terra.com.br,66,+ 60,Maria Gasperi,5,+ 60
+80,Ives,Teixeira,F,"1954-10-24 00:00:00,000",ives34@gmail.com,67,+ 60,Ives Teixeira,5,+ 60
+81,Rafaela,Gomes,F,"1991-02-20 00:00:00,000",rafaela37@hotmail.com,30,30 a 39,Rafaela Gomes,2,30 a 39
+83,Amanda,Braga,F,"1954-09-20 00:00:00,000",amanda57@msn.com.br,67,+ 60,Amanda Braga,5,+ 60
+85,Laís,Oliveira,F,"1962-09-08 00:00:00,000",laís7@uol.com.br,59,50 a 59,Laís Oliveira,4,50 a 59
+86,Rachel,Restum,F,"1982-03-29 00:00:00,000",rachel61@uol.com,39,30 a 39,Rachel Restum,2,30 a 39
+90,Juliana,Silva,F,"1985-03-19 00:00:00,000",juliana43@icloud.com,36,30 a 39,Juliana Silva,2,30 a 39
+95,Ylana,Teraoka,F,"1982-08-04 00:00:00,000",ylana65@outlook.com.br,39,30 a 39,Ylana Teraoka,2,30 a 39
+96,Gabrielle,Silva,F,"1950-08-31 00:00:00,000",gabrielle45@gmail.com.br,71,+ 60,Gabrielle Silva,5,+ 60
+99,Camilla,Guimarães,F,"1969-02-14 00:00:00,000",camilla20@yahoo.com,52,50 a 59,Camilla Guimarães,4,50 a 59
+100,Amanda,Felippe,F,"1994-05-04 00:00:00,000",amanda24@terra.com.br,27,20 a 29,Amanda Felippe,1,20 a 29
+101,Elena,Barreto,F,"1952-01-12 00:00:00,000",elena53@uol.com.br,69,+ 60,Elena Barreto,5,+ 60
+102,Isabela,Chagas,F,"1968-07-06 00:00:00,000",isabela65@msn.com.br,53,50 a 59,Isabela Chagas,4,50 a 59
+103,Gabrielle,Vasconcelos,F,"1982-07-03 00:00:00,000",gabrielle39@gmail.com,39,30 a 39,Gabrielle Vasconcelos,2,30 a 39
+104,Natália,Appel,F,"1974-09-09 00:00:00,000",natália5@hotmail.com.br,47,40 a 49,Natália Appel,3,40 a 49
+109,Letícia,Rodrigues,F,"1990-07-24 00:00:00,000",letícia42@terra.com,31,30 a 39,Letícia Rodrigues,2,30 a 39
+110,Viviane,Cunha,F,"1952-06-02 00:00:00,000",viviane30@hotmail.com,69,+ 60,Viviane Cunha,5,+ 60
+119,Juliana,Huon,F,"1971-05-30 00:00:00,000",juliana49@uol.com,50,50 a 59,Juliana Huon,4,50 a 59
+121,Ana,Bôas,F,"1971-11-21 00:00:00,000",ana20@yahoo.com.br,49,40 a 49,Ana Bôas,3,40 a 49
+123,Ana,Soledade,F,"1950-04-15 00:00:00,000",ana9@uol.com.br,71,+ 60,Ana Soledade,5,+ 60
+124,Roberta,Nogueira,F,"1981-12-17 00:00:00,000",roberta51@gmail.com,39,30 a 39,Roberta Nogueira,2,30 a 39
+125,Bianca,Piero,F,"1992-08-05 00:00:00,000",bianca22@hotmail.com,29,20 a 29,Bianca Piero,1,20 a 29
+127,Wendela,Mariz,F,"1972-04-13 00:00:00,000",wendela14@msn.com.br,49,40 a 49,Wendela Mariz,3,40 a 49
+131,Juliana,Silva,F,"1990-08-19 00:00:00,000",juliana5@live.com,31,30 a 39,Juliana Silva,2,30 a 39
+134,Thaís,Ribeiro,F,"1974-09-29 00:00:00,000",thaís68@terra.com,47,40 a 49,Thaís Ribeiro,3,40 a 49
+136,Júlia,Almeida,F,"1953-06-06 00:00:00,000",júlia64@yahoo.com.br,68,+ 60,Júlia Almeida,5,+ 60
+138,Lunna,Vannier,F,"1995-09-13 00:00:00,000",lunna67@yahoo.com,26,20 a 29,Lunna Vannier,1,20 a 29
+143,Amanda,Amaral,F,"1995-08-03 00:00:00,000",amanda66@icloud.com.br,26,20 a 29,Amanda Amaral,1,20 a 29
+147,Viviane,Souza,F,"1961-07-21 00:00:00,000",viviane16@yahoo.com,60,+ 60,Viviane Souza,5,+ 60
+150,Morgana,Correa,F,"1984-03-29 00:00:00,000",morgana52@uol.com.br,37,30 a 39,Morgana Correa,2,30 a 39
+151,Beatriz,Almeida,F,"1987-01-30 00:00:00,000",beatriz51@yahoo.com,34,30 a 39,Beatriz Almeida,2,30 a 39
+152,Kim,Ferreira,F,"1952-07-15 00:00:00,000",kim50@icloud.com.br,69,+ 60,Kim Ferreira,5,+ 60
+153,Roberta,Pimenta,F,"1969-07-29 00:00:00,000",roberta20@msn.com,52,50 a 59,Roberta Pimenta,4,50 a 59
+156,Gabriela,Mello,F,"1967-08-31 00:00:00,000",gabriela60@icloud.com,54,50 a 59,Gabriela Mello,4,50 a 59
+157,Beatriz,Rocha,F,"1985-11-04 00:00:00,000",beatriz7@outlook.com.br,35,30 a 39,Beatriz Rocha,2,30 a 39
+159,Larissa,Vasconcellos,F,"1985-12-12 00:00:00,000",larissa51@outlook.com,35,30 a 39,Larissa Vasconcellos,2,30 a 39
+163,Anna,Maia,F,"1971-10-19 00:00:00,000",anna14@outlook.com.br,50,50 a 59,Anna Maia,4,50 a 59
+164,Gabrielle,Viríssimo,F,"1999-08-18 00:00:00,000",gabrielle67@yahoo.com,22,20 a 29,Gabrielle Viríssimo,1,20 a 29
+168,Raissa,Maia,F,"1988-05-07 00:00:00,000",raissa67@hotmail.com,33,30 a 39,Raissa Maia,2,30 a 39
+170,Luana,Santana,F,"2000-07-27 00:00:00,000",luana34@icloud.com.br,21,20 a 29,Luana Santana,1,20 a 29
+171,Carla,Zakhm,F,"1991-06-16 00:00:00,000",carla70@outlook.com,30,30 a 39,Carla Zakhm,2,30 a 39
+173,Rebeca,Taylor,F,"1984-12-25 00:00:00,000",rebeca16@hotmail.com,36,30 a 39,Rebeca Taylor,2,30 a 39
+174,Maria,Assumpção,F,"1998-06-16 00:00:00,000",maria50@outlook.com.br,23,20 a 29,Maria Assumpção,1,20 a 29
+180,Rojane,Lima,F,"1987-06-12 00:00:00,000",rojane64@terra.com,34,30 a 39,Rojane Lima,2,30 a 39
+181,Karine,Barros,F,"1970-05-11 00:00:00,000",karine37@yahoo.com.br,51,50 a 59,Karine Barros,4,50 a 59
+184,Larissa,Jesus,F,"1996-10-28 00:00:00,000",larissa38@yahoo.com.br,24,20 a 29,Larissa Jesus,1,20 a 29
+192,Marianna,Pestana,F,"1980-10-25 00:00:00,000",marianna50@outlook.com.br,40,40 a 49,Marianna Pestana,3,40 a 49
+193,Letícia,Araujo,F,"1978-02-27 00:00:00,000",letícia14@terra.com.br,43,40 a 49,Letícia Araujo,3,40 a 49
+195,Rebeca,Manhães,F,"1997-05-13 00:00:00,000",rebeca66@gmail.com.br,24,20 a 29,Rebeca Manhães,1,20 a 29
+196,Marcela,Medeiros,F,"1994-09-07 00:00:00,000",marcela28@hotmail.com,27,20 a 29,Marcela Medeiros,1,20 a 29
+198,Julia,Teixeira,F,"2000-08-05 00:00:00,000",julia26@live.com.br,21,20 a 29,Julia Teixeira,1,20 a 29
+199,Patrícia,Fernandes,F,"1976-08-24 00:00:00,000",patrícia69@icloud.com.br,45,40 a 49,Patrícia Fernandes,3,40 a 49
+200,Livia,Cozendey,F,"1994-04-09 00:00:00,000",livia3@msn.com,27,20 a 29,Livia Cozendey,1,20 a 29
+206,Gabrielle,Porto,F,"1985-08-06 00:00:00,000",gabrielle39@uol.com.br,36,30 a 39,Gabrielle Porto,2,30 a 39
+208,Helena,Chafin,F,"1980-08-26 00:00:00,000",helena26@msn.com.br,41,40 a 49,Helena Chafin,3,40 a 49
+209,Sarah,Souza,F,"1963-08-27 00:00:00,000",sarah65@hotmail.com,58,50 a 59,Sarah Souza,4,50 a 59
+210,Jéssica,Netto,F,"2000-06-17 00:00:00,000",jéssica9@gmail.com.br,21,20 a 29,Jéssica Netto,1,20 a 29
+211,Gabriela,Fernandes,F,"1980-02-22 00:00:00,000",gabriela66@live.com,41,40 a 49,Gabriela Fernandes,3,40 a 49
+212,Julia,Figueiredo,F,"1996-02-25 00:00:00,000",julia3@icloud.com.br,25,20 a 29,Julia Figueiredo,1,20 a 29
+213,Natalia,Andrade,F,"1953-04-29 00:00:00,000",natalia4@uol.com,68,+ 60,Natalia Andrade,5,+ 60
+215,Fernanda,Figueiredo,F,"1997-08-09 00:00:00,000",fernanda15@terra.com.br,24,20 a 29,Fernanda Figueiredo,1,20 a 29
+216,Ana,Almeida,F,"1972-09-12 00:00:00,000",ana46@icloud.com.br,49,40 a 49,Ana Almeida,3,40 a 49
+217,Joyce,Medina,F,"1971-05-12 00:00:00,000",joyce61@hotmail.com.br,50,50 a 59,Joyce Medina,4,50 a 59
+218,Mariane,Racy,F,"1984-06-04 00:00:00,000",mariane17@uol.com.br,37,30 a 39,Mariane Racy,2,30 a 39
+221,Lara,Moreira,F,"1974-01-21 00:00:00,000",lara12@gmail.com.br,47,40 a 49,Lara Moreira,3,40 a 49
+222,Gabriella,Lopes,F,"1981-05-28 00:00:00,000",gabriella45@yahoo.com,40,40 a 49,Gabriella Lopes,3,40 a 49
+224,Paloma,Sperandei,F,"1960-11-12 00:00:00,000",paloma43@yahoo.com.br,60,+ 60,Paloma Sperandei,5,+ 60
+226,Desirée,Heimlich,F,"1951-01-17 00:00:00,000",desirée56@live.com.br,70,+ 60,Desirée Heimlich,5,+ 60
+227,Isabella,Santos,F,"1979-05-21 00:00:00,000",isabella20@yahoo.com.br,42,40 a 49,Isabella Santos,3,40 a 49
+232,Andressa,Nóbrega,F,"1957-10-27 00:00:00,000",andressa41@live.com,63,+ 60,Andressa Nóbrega,5,+ 60
+234,Isabella,Montanholi,F,"1976-04-03 00:00:00,000",isabella33@yahoo.com,45,40 a 49,Isabella Montanholi,3,40 a 49
+235,Lais,Candido,F,"1978-06-06 00:00:00,000",lais47@hotmail.com,43,40 a 49,Lais Candido,3,40 a 49
+237,Milena,Alcoforado,F,"1958-04-30 00:00:00,000",milena60@gmail.com.br,63,+ 60,Milena Alcoforado,5,+ 60
+243,Raissa,Pinheiro,F,"1950-03-09 00:00:00,000",raissa17@msn.com.br,71,+ 60,Raissa Pinheiro,5,+ 60
+244,Ana,Felippe,F,"1971-04-15 00:00:00,000",ana43@live.com.br,50,50 a 59,Ana Felippe,4,50 a 59
+245,Jessica,Cordovil,F,"1986-09-28 00:00:00,000",jessica13@hotmail.com.br,35,30 a 39,Jessica Cordovil,2,30 a 39
+247,Raissa,Sales,F,"1980-04-03 00:00:00,000",raissa25@yahoo.com,41,40 a 49,Raissa Sales,3,40 a 49
+250,Giselia,Thiele,F,"1970-07-02 00:00:00,000",giselia37@msn.com.br,51,50 a 59,Giselia Thiele,4,50 a 59
+253,Luiza,Ribeiro,F,"1995-02-23 00:00:00,000",luiza25@outlook.com,26,20 a 29,Luiza Ribeiro,1,20 a 29
+254,Vanessa,Neves,F,"1994-03-28 00:00:00,000",vanessa45@yahoo.com,27,20 a 29,Vanessa Neves,1,20 a 29
+255,Wen,Braga,F,"1958-12-13 00:00:00,000",wen46@uol.com.br,62,+ 60,Wen Braga,5,+ 60
+256,Carolina,Abrahão,F,"1987-01-23 00:00:00,000",carolina62@uol.com,34,30 a 39,Carolina Abrahão,2,30 a 39
+258,Natalia,Accioly,F,"1997-10-24 00:00:00,000",natalia42@uol.com,23,20 a 29,Natalia Accioly,1,20 a 29
+261,Amanda,Machado,F,"1969-01-06 00:00:00,000",amanda22@gmail.com,52,50 a 59,Amanda Machado,4,50 a 59
+263,Camila,Bastazini,F,"1986-06-02 00:00:00,000",camila63@icloud.com,35,30 a 39,Camila Bastazini,2,30 a 39
+264,Marina,Aragão,F,"1970-05-14 00:00:00,000",marina19@outlook.com,51,50 a 59,Marina Aragão,4,50 a 59
+268,Fernanda,Silva,F,"1987-01-20 00:00:00,000",fernanda27@terra.com,34,30 a 39,Fernanda Silva,2,30 a 39
+269,Julia,Aliani,F,"1985-11-15 00:00:00,000",julia46@icloud.com,35,30 a 39,Julia Aliani,2,30 a 39
+271,Ana,Gomes,F,"1962-06-01 00:00:00,000",ana44@terra.com.br,59,50 a 59,Ana Gomes,4,50 a 59
+273,Alessandra,Martins,F,"1992-09-22 00:00:00,000",alessandra46@live.com.br,29,20 a 29,Alessandra Martins,1,20 a 29
+277,Katharina,Barros,F,"1961-05-15 00:00:00,000",katharina9@terra.com,60,+ 60,Katharina Barros,5,+ 60
+280,Ana,Campos,F,"1996-04-19 00:00:00,000",ana12@hotmail.com.br,25,20 a 29,Ana Campos,1,20 a 29
+281,Bruna,Franco,F,"1981-03-14 00:00:00,000",bruna21@terra.com.br,40,40 a 49,Bruna Franco,3,40 a 49
+284,Gabriela,Cavalcanti,F,"1972-01-21 00:00:00,000",gabriela29@live.com,49,40 a 49,Gabriela Cavalcanti,3,40 a 49
+286,Juliana,Guimarães,F,"1953-02-05 00:00:00,000",juliana49@hotmail.com.br,68,+ 60,Juliana Guimarães,5,+ 60
+288,Izabel,Lopes,F,"1998-10-07 00:00:00,000",izabel62@yahoo.com,23,20 a 29,Izabel Lopes,1,20 a 29
+290,Lorena,Kohn,F,"1965-10-09 00:00:00,000",lorena18@live.com,56,50 a 59,Lorena Kohn,4,50 a 59
+297,Julia,Leig,F,"1995-04-03 00:00:00,000",julia54@live.com.br,26,20 a 29,Julia Leig,1,20 a 29
+298,Carolina,Rachide,F,"1980-07-15 00:00:00,000",carolina13@msn.com.br,41,40 a 49,Carolina Rachide,3,40 a 49
+299,Luis,Silva,F,"1999-06-11 00:00:00,000",luis3@yahoo.com.br,22,20 a 29,Luis Silva,1,20 a 29
+300,Carolina,Carneiro,F,"1989-06-11 00:00:00,000",carolina47@yahoo.com,32,30 a 39,Carolina Carneiro,2,30 a 39
+301,Ana,Silva,F,"1967-09-26 00:00:00,000",ana37@gmail.com.br,54,50 a 59,Ana Silva,4,50 a 59
+302,Thais,Rodrigues,F,"1968-04-04 00:00:00,000",thais24@live.com,53,50 a 59,Thais Rodrigues,4,50 a 59
+305,Larissa,Nauenberg,F,"1968-10-24 00:00:00,000",larissa31@gmail.com,52,50 a 59,Larissa Nauenberg,4,50 a 59
+306,Lívia,Tanaka,F,"1977-07-11 00:00:00,000",lívia62@uol.com,44,40 a 49,Lívia Tanaka,3,40 a 49
+309,Leticia,Mesquita,F,"1959-11-24 00:00:00,000",leticia47@gmail.com.br,61,+ 60,Leticia Mesquita,5,+ 60
+310,Raíssa,Oliveira,F,"1994-12-26 00:00:00,000",raíssa28@live.com,26,20 a 29,Raíssa Oliveira,1,20 a 29
+311,Beatriz,Perdomo,F,"1976-01-17 00:00:00,000",beatriz59@icloud.com.br,45,40 a 49,Beatriz Perdomo,3,40 a 49
+312,Amanda,Delgado,F,"1994-07-12 00:00:00,000",amanda23@hotmail.com.br,27,20 a 29,Amanda Delgado,1,20 a 29
+318,Bianca,Tatsch,F,"1985-07-27 00:00:00,000",bianca47@terra.com,36,30 a 39,Bianca Tatsch,2,30 a 39
+319,Anna,Figueiredo,F,"1989-05-27 00:00:00,000",anna58@gmail.com.br,32,30 a 39,Anna Figueiredo,2,30 a 39
+321,Deysiane,Medronho,F,"1978-11-07 00:00:00,000",deysiane41@terra.com,42,40 a 49,Deysiane Medronho,3,40 a 49
+322,Carolina,Bernardes,F,"1960-06-08 00:00:00,000",carolina57@uol.com.br,61,+ 60,Carolina Bernardes,5,+ 60
+326,Mariana,Sousa,F,"1970-03-17 00:00:00,000",mariana45@gmail.com.br,51,50 a 59,Mariana Sousa,4,50 a 59
+327,Rachel,Silva,F,"1985-01-28 00:00:00,000",rachel30@yahoo.com.br,36,30 a 39,Rachel Silva,2,30 a 39
+333,Ana,Felippe,F,"1993-09-06 00:00:00,000",ana23@terra.com,28,20 a 29,Ana Felippe,1,20 a 29
+334,Marina,Delgado,F,"1955-03-04 00:00:00,000",marina18@gmail.com.br,66,+ 60,Marina Delgado,5,+ 60
+335,Bruna,Londero,F,"1961-08-07 00:00:00,000",bruna51@live.com.br,60,+ 60,Bruna Londero,5,+ 60
+337,Beatriz,Rodrigues,F,"1981-09-27 00:00:00,000",beatriz7@hotmail.com.br,40,40 a 49,Beatriz Rodrigues,3,40 a 49
+338,Catarina,Teixeira,F,"1971-09-19 00:00:00,000",catarina40@icloud.com.br,50,50 a 59,Catarina Teixeira,4,50 a 59
+340,Ana,Carvalho,F,"1965-04-11 00:00:00,000",ana43@hotmail.com.br,56,50 a 59,Ana Carvalho,4,50 a 59
+345,Carolina,Rocha,F,"1991-10-03 00:00:00,000",carolina48@icloud.com,30,30 a 39,Carolina Rocha,2,30 a 39
+346,Izabel,Miura,F,"1953-10-07 00:00:00,000",izabel24@hotmail.com.br,68,+ 60,Izabel Miura,5,+ 60
+350,Beatriz,Cavalcanti,F,"1987-07-05 00:00:00,000",beatriz67@yahoo.com.br,34,30 a 39,Beatriz Cavalcanti,2,30 a 39
+351,Beatriz,Li,F,"1989-09-24 00:00:00,000",beatriz45@hotmail.com,32,30 a 39,Beatriz Li,2,30 a 39
+359,Daniela,Rosa,F,"1958-07-30 00:00:00,000",daniela53@outlook.com,63,+ 60,Daniela Rosa,5,+ 60
+360,Raíssa,Nimer,F,"1982-04-15 00:00:00,000",raíssa37@terra.com.br,39,30 a 39,Raíssa Nimer,2,30 a 39
+361,Adriane,Gomes,F,"1955-01-28 00:00:00,000",adriane42@uol.com,66,+ 60,Adriane Gomes,5,+ 60
+363,Bruna,Brandao,F,"1993-04-22 00:00:00,000",bruna24@outlook.com,28,20 a 29,Bruna Brandao,1,20 a 29
+365,Ana,Júnior,F,"1968-05-16 00:00:00,000",ana15@msn.com,53,50 a 59,Ana Júnior,4,50 a 59
+368,Juliana,Pacheco,F,"1958-02-16 00:00:00,000",juliana50@gmail.com.br,63,+ 60,Juliana Pacheco,5,+ 60
+369,Giovana,Vilela,F,"1972-08-14 00:00:00,000",giovana60@terra.com.br,49,40 a 49,Giovana Vilela,3,40 a 49
+370,Luis,Oliveira,F,"1985-09-15 00:00:00,000",luis12@terra.com.br,36,30 a 39,Luis Oliveira,2,30 a 39
+371,Patrícia,Ferreira,F,"1967-09-25 00:00:00,000",patrícia68@uol.com,54,50 a 59,Patrícia Ferreira,4,50 a 59
+373,Aline,Mello,F,"1999-10-10 00:00:00,000",aline5@hotmail.com.br,22,20 a 29,Aline Mello,1,20 a 29
+375,Paula,Isbelle,F,"1965-03-04 00:00:00,000",paula40@hotmail.com.br,56,50 a 59,Paula Isbelle,4,50 a 59
+376,Barbara,Procaci,F,"1965-12-17 00:00:00,000",barbara69@live.com.br,55,50 a 59,Barbara Procaci,4,50 a 59
+380,Luiza,Farias,F,"1971-11-10 00:00:00,000",luiza38@icloud.com.br,49,40 a 49,Luiza Farias,3,40 a 49
+381,Maria,Junior,F,"1959-03-30 00:00:00,000",maria47@uol.com,62,+ 60,Maria Junior,5,+ 60
+384,Stephanie,Novak,F,"1969-04-08 00:00:00,000",stephanie66@yahoo.com.br,52,50 a 59,Stephanie Novak,4,50 a 59
+385,Isabela,Rodrigues,F,"1994-05-19 00:00:00,000",isabela23@hotmail.com.br,27,20 a 29,Isabela Rodrigues,1,20 a 29
+386,Bruna,Chein,F,"1985-09-04 00:00:00,000",bruna18@outlook.com.br,36,30 a 39,Bruna Chein,2,30 a 39
+389,Marina,Mesquita,F,"1985-11-15 00:00:00,000",marina63@uol.com,35,30 a 39,Marina Mesquita,2,30 a 39
+390,Fernanda,Bhering,F,"1985-01-04 00:00:00,000",fernanda56@icloud.com.br,36,30 a 39,Fernanda Bhering,2,30 a 39
+393,Isabelle,Gonçalves,F,"1961-07-10 00:00:00,000",isabelle24@live.com.br,60,+ 60,Isabelle Gonçalves,5,+ 60
+394,Milena,Almeida,F,"1982-06-19 00:00:00,000",milena32@outlook.com,39,30 a 39,Milena Almeida,2,30 a 39
+398,Paula,Calbucci,F,"1963-09-20 00:00:00,000",paula44@gmail.com.br,58,50 a 59,Paula Calbucci,4,50 a 59
+399,Amanda,Procaci,F,"1992-02-06 00:00:00,000",amanda41@live.com,29,20 a 29,Amanda Procaci,1,20 a 29
+402,Ana,Monte,F,"1963-02-15 00:00:00,000",ana54@outlook.com,58,50 a 59,Ana Monte,4,50 a 59
+407,Carolina,Motta,F,"1996-10-31 00:00:00,000",carolina61@terra.com,24,20 a 29,Carolina Motta,1,20 a 29
+409,Carolina,Alfradique,F,"2000-01-15 00:00:00,000",carolina62@uol.com,21,20 a 29,Carolina Alfradique,1,20 a 29
+410,Sandy,Moreira,F,"1973-09-04 00:00:00,000",sandy24@gmail.com.br,48,40 a 49,Sandy Moreira,3,40 a 49
+412,Anna,Silva,F,"1957-05-14 00:00:00,000",anna12@live.com.br,64,+ 60,Anna Silva,5,+ 60
+413,Priscila,Garcia,F,"1993-06-14 00:00:00,000",priscila9@hotmail.com,28,20 a 29,Priscila Garcia,1,20 a 29
+415,Daniela,Andrada,F,"1955-02-12 00:00:00,000",daniela33@uol.com.br,66,+ 60,Daniela Andrada,5,+ 60
+417,Julia,Silva,F,"1997-02-01 00:00:00,000",julia53@hotmail.com,24,20 a 29,Julia Silva,1,20 a 29
+421,Ana,Fioretti,F,"1967-05-06 00:00:00,000",ana32@terra.com.br,54,50 a 59,Ana Fioretti,4,50 a 59
+426,Rafaela,Rodrigues,F,"1992-05-02 00:00:00,000",rafaela4@msn.com,29,20 a 29,Rafaela Rodrigues,1,20 a 29
+427,Rafaella,Mello,F,"1994-05-23 00:00:00,000",rafaella16@live.com,27,20 a 29,Rafaella Mello,1,20 a 29
+429,Samara,Pinto,F,"1985-01-29 00:00:00,000",samara66@hotmail.com,36,30 a 39,Samara Pinto,2,30 a 39
+432,Marcela,Johnson,F,"1959-04-27 00:00:00,000",marcela27@outlook.com,62,+ 60,Marcela Johnson,5,+ 60
+433,Marina,Gama,F,"1957-09-15 00:00:00,000",marina56@icloud.com.br,64,+ 60,Marina Gama,5,+ 60
+434,Bruna,Rosa,F,"1969-02-01 00:00:00,000",bruna3@hotmail.com.br,52,50 a 59,Bruna Rosa,4,50 a 59
+435,Raíssa,Oros,F,"1986-03-05 00:00:00,000",raíssa14@gmail.com.br,35,30 a 39,Raíssa Oros,2,30 a 39
+436,Luiza,Johnson,F,"1954-04-06 00:00:00,000",luiza66@uol.com.br,67,+ 60,Luiza Johnson,5,+ 60
+437,Joana,Calmon,F,"1998-10-14 00:00:00,000",joana34@live.com.br,22,20 a 29,Joana Calmon,1,20 a 29
+438,Paula,Cavalcanti,F,"1973-03-06 00:00:00,000",paula25@hotmail.com,48,40 a 49,Paula Cavalcanti,3,40 a 49
+439,Amanda,Roberto,F,"1984-07-30 00:00:00,000",amanda53@icloud.com,37,30 a 39,Amanda Roberto,2,30 a 39
+440,Jéssica,Stefanelli,F,"1950-10-07 00:00:00,000",jéssica27@uol.com,71,+ 60,Jéssica Stefanelli,5,+ 60
+443,Bianca,Ferezin,F,"1986-09-15 00:00:00,000",bianca33@yahoo.com,35,30 a 39,Bianca Ferezin,2,30 a 39
+447,Isabella,Rodrigues,F,"1978-01-21 00:00:00,000",isabella23@hotmail.com,43,40 a 49,Isabella Rodrigues,3,40 a 49
+451,Maria,Motta,F,"1999-01-07 00:00:00,000",maria19@msn.com,22,20 a 29,Maria Motta,1,20 a 29
+453,Melissa,Nucci,F,"1979-07-29 00:00:00,000",melissa15@hotmail.com.br,42,40 a 49,Melissa Nucci,3,40 a 49
+454,Luiza,Marques,F,"1995-10-19 00:00:00,000",luiza48@outlook.com,25,20 a 29,Luiza Marques,1,20 a 29
+459,Glenda,Santos,F,"1999-03-24 00:00:00,000",glenda9@live.com,22,20 a 29,Glenda Santos,1,20 a 29
+463,Isabella,Scalabrin,F,"1963-07-14 00:00:00,000",isabella60@gmail.com,58,50 a 59,Isabella Scalabrin,4,50 a 59
+465,Julie,Ferreira,F,"1992-06-01 00:00:00,000",julie68@uol.com,29,20 a 29,Julie Ferreira,1,20 a 29
+466,Monique,Vasconcelos,F,"1997-08-21 00:00:00,000",monique49@terra.com.br,24,20 a 29,Monique Vasconcelos,1,20 a 29
+467,Caroline,Cavalcanti,F,"1988-11-16 00:00:00,000",caroline41@outlook.com,32,30 a 39,Caroline Cavalcanti,2,30 a 39
+470,Michelle,Figueiredo,F,"1978-07-18 00:00:00,000",michelle33@live.com.br,43,40 a 49,Michelle Figueiredo,3,40 a 49
+472,Priscila,Suzano,F,"1976-06-20 00:00:00,000",priscila30@gmail.com,45,40 a 49,Priscila Suzano,3,40 a 49
+473,Stephanie,Oliveira,F,"1994-05-26 00:00:00,000",stephanie30@yahoo.com.br,27,20 a 29,Stephanie Oliveira,1,20 a 29
+475,Caroline,Pinto,F,"1959-08-12 00:00:00,000",caroline3@outlook.com,62,+ 60,Caroline Pinto,5,+ 60
+477,Stela,Mendonça,F,"1965-08-20 00:00:00,000",stela61@outlook.com,56,50 a 59,Stela Mendonça,4,50 a 59
+478,Elaine,Santos,F,"1972-10-12 00:00:00,000",elaine22@live.com.br,49,40 a 49,Elaine Santos,3,40 a 49
+479,Sandy,Figueiredo,F,"1991-02-25 00:00:00,000",sandy44@msn.com,30,30 a 39,Sandy Figueiredo,2,30 a 39
+480,Priscila,Carvalho,F,"1984-01-08 00:00:00,000",priscila38@gmail.com.br,37,30 a 39,Priscila Carvalho,2,30 a 39
+484,Laura,Araujo,F,"1961-11-04 00:00:00,000",laura17@msn.com,59,50 a 59,Laura Araujo,4,50 a 59
+486,Gabrielle,Wanderley,F,"1957-04-06 00:00:00,000",gabrielle63@hotmail.com.br,64,+ 60,Gabrielle Wanderley,5,+ 60
+488,Carolina,Siqueira,F,"1981-06-25 00:00:00,000",carolina22@icloud.com.br,40,40 a 49,Carolina Siqueira,3,40 a 49
+490,Aline,Andrade,F,"1958-08-21 00:00:00,000",aline16@terra.com,63,+ 60,Aline Andrade,5,+ 60
+492,Bianca,Allevato,F,"1983-10-21 00:00:00,000",bianca53@icloud.com.br,37,30 a 39,Bianca Allevato,2,30 a 39
+493,Amanda,Gontijo,F,"1993-06-24 00:00:00,000",amanda54@hotmail.com,28,20 a 29,Amanda Gontijo,1,20 a 29
+495,Clarissa,Santos,F,"1955-03-24 00:00:00,000",clarissa62@terra.com.br,66,+ 60,Clarissa Santos,5,+ 60
+498,Patrícia,Amaral,F,"1990-07-03 00:00:00,000",patrícia59@uol.com,31,30 a 39,Patrícia Amaral,2,30 a 39
+500,Raísa,Rodrigues,F,"1958-03-18 00:00:00,000",raísa10@live.com,63,+ 60,Raísa Rodrigues,5,+ 60
+501,Camilla,Vieira,F,"1956-07-10 00:00:00,000",camilla31@outlook.com.br,65,+ 60,Camilla Vieira,5,+ 60
+508,Rebeca,Reis,F,"1960-02-14 00:00:00,000",rebeca19@icloud.com.br,61,+ 60,Rebeca Reis,5,+ 60
+509,Stephanie,Gonçalves,F,"2000-05-06 00:00:00,000",stephanie19@icloud.com,21,20 a 29,Stephanie Gonçalves,1,20 a 29
+510,Debora,Silva,F,"1965-05-31 00:00:00,000",debora32@gmail.com,56,50 a 59,Debora Silva,4,50 a 59
+511,Ana,Michetti,F,"1991-10-26 00:00:00,000",ana57@icloud.com,29,20 a 29,Ana Michetti,1,20 a 29
+512,Carolina,Silva,F,"1985-02-02 00:00:00,000",carolina3@hotmail.com,36,30 a 39,Carolina Silva,2,30 a 39
+515,Ana,Miura,F,"1977-03-30 00:00:00,000",ana40@icloud.com.br,44,40 a 49,Ana Miura,3,40 a 49
+516,Priscila,Vogel,F,"1964-07-28 00:00:00,000",priscila68@uol.com.br,57,50 a 59,Priscila Vogel,4,50 a 59
+521,Jessica,Ferreira,F,"1951-02-05 00:00:00,000",jessica28@terra.com,70,+ 60,Jessica Ferreira,5,+ 60
+522,Luiza,Cavalcanti,F,"1975-04-12 00:00:00,000",luiza3@terra.com,46,40 a 49,Luiza Cavalcanti,3,40 a 49
+523,Camille,Silva,F,"1952-11-07 00:00:00,000",camille43@live.com.br,68,+ 60,Camille Silva,5,+ 60
+524,Hanna,Fonseca,F,"1985-08-19 00:00:00,000",hanna54@icloud.com.br,36,30 a 39,Hanna Fonseca,2,30 a 39
+526,Luis,Souza,F,"1974-12-18 00:00:00,000",luis15@yahoo.com.br,46,40 a 49,Luis Souza,3,40 a 49
+527,Yasmim,Bittencourt,F,"1971-02-09 00:00:00,000",yasmim30@gmail.com,50,50 a 59,Yasmim Bittencourt,4,50 a 59
+528,Luíza,Goulart,F,"1956-03-29 00:00:00,000",luíza25@outlook.com,65,+ 60,Luíza Goulart,5,+ 60
+530,Victoria,Tavares,F,"1981-11-07 00:00:00,000",victoria48@terra.com.br,39,30 a 39,Victoria Tavares,2,30 a 39
+532,Carolina,Costa,F,"1981-11-26 00:00:00,000",carolina41@hotmail.com,39,30 a 39,Carolina Costa,2,30 a 39
+535,Giulia,Lopes,F,"1967-04-24 00:00:00,000",giulia60@outlook.com.br,54,50 a 59,Giulia Lopes,4,50 a 59
+539,Rafaela,Ferreira,F,"1998-06-25 00:00:00,000",rafaela10@live.com.br,23,20 a 29,Rafaela Ferreira,1,20 a 29
+540,Raísa,Berto,F,"1994-11-07 00:00:00,000",raísa35@live.com.br,26,20 a 29,Raísa Berto,1,20 a 29
+542,Kimberly,Sad,F,"1982-08-28 00:00:00,000",kimberly52@yahoo.com,39,30 a 39,Kimberly Sad,2,30 a 39
+543,Andreza,Ramos,F,"1963-01-01 00:00:00,000",andreza54@hotmail.com,58,50 a 59,Andreza Ramos,4,50 a 59
+546,Michelle,Miura,F,"1966-11-14 00:00:00,000",michelle54@gmail.com.br,54,50 a 59,Michelle Miura,4,50 a 59
+551,Maria,Cardoso,F,"1969-10-31 00:00:00,000",maria41@gmail.com.br,51,50 a 59,Maria Cardoso,4,50 a 59
+553,Rafaela,Feio,F,"1960-12-12 00:00:00,000",rafaela55@live.com,60,+ 60,Rafaela Feio,5,+ 60
+555,Gabrielle,Figueiredo,F,"1976-11-30 00:00:00,000",gabrielle62@icloud.com,44,40 a 49,Gabrielle Figueiredo,3,40 a 49
+557,Caroline,Aquino,F,"1984-09-08 00:00:00,000",caroline13@live.com.br,37,30 a 39,Caroline Aquino,2,30 a 39
+559,Adriana,Carneiro,F,"1993-03-13 00:00:00,000",adriana55@hotmail.com.br,28,20 a 29,Adriana Carneiro,1,20 a 29
+564,Luis,Garcia,F,"1997-03-21 00:00:00,000",luis16@hotmail.com,24,20 a 29,Luis Garcia,1,20 a 29
+565,Beatriz,Biase,F,"1963-11-14 00:00:00,000",beatriz60@msn.com.br,57,50 a 59,Beatriz Biase,4,50 a 59
+570,Isabelle,Firmino,F,"1968-03-18 00:00:00,000",isabelle50@msn.com.br,53,50 a 59,Isabelle Firmino,4,50 a 59
+573,Ravena,Bhering,F,"1983-12-04 00:00:00,000",ravena14@outlook.com.br,37,30 a 39,Ravena Bhering,2,30 a 39
+577,Mariane,Ferreira,F,"1971-09-23 00:00:00,000",mariane16@icloud.com,50,50 a 59,Mariane Ferreira,4,50 a 59
+581,Juliana,Hollander,F,"1968-04-09 00:00:00,000",juliana42@msn.com.br,53,50 a 59,Juliana Hollander,4,50 a 59
+582,Giovanna,Santos,F,"1997-11-01 00:00:00,000",giovanna54@live.com.br,23,20 a 29,Giovanna Santos,1,20 a 29
+583,Paula,Carneiro,F,"1973-06-07 00:00:00,000",paula61@hotmail.com,48,40 a 49,Paula Carneiro,3,40 a 49
+587,Isabel,Mesquita,F,"1989-10-25 00:00:00,000",isabel53@msn.com.br,31,30 a 39,Isabel Mesquita,2,30 a 39
+595,Carolina,Brum,F,"1957-12-27 00:00:00,000",carolina34@uol.com.br,63,+ 60,Carolina Brum,5,+ 60
+599,Luíza,Garcia,F,"1987-11-13 00:00:00,000",luíza46@gmail.com.br,33,30 a 39,Luíza Garcia,2,30 a 39
+600,Michelle,Pereira,F,"1971-05-07 00:00:00,000",michelle61@live.com.br,50,50 a 59,Michelle Pereira,4,50 a 59
+601,Anna,Silva,F,"1983-08-26 00:00:00,000",anna9@msn.com,38,30 a 39,Anna Silva,2,30 a 39
+605,Dandara,Reis,F,"1984-03-04 00:00:00,000",dandara36@icloud.com.br,37,30 a 39,Dandara Reis,2,30 a 39
+606,Bruna,Soares,F,"1976-10-30 00:00:00,000",bruna18@icloud.com.br,44,40 a 49,Bruna Soares,3,40 a 49
+607,Adriane,Chagas,F,"1988-12-05 00:00:00,000",adriane18@terra.com.br,32,30 a 39,Adriane Chagas,2,30 a 39
+608,Jéssica,Teixeira,F,"1992-09-17 00:00:00,000",jéssica39@live.com.br,29,20 a 29,Jéssica Teixeira,1,20 a 29
+609,Karina,Camara,F,"1963-06-17 00:00:00,000",karina36@hotmail.com.br,58,50 a 59,Karina Camara,4,50 a 59
+610,Isabel,Leite,F,"1994-12-07 00:00:00,000",isabel45@terra.com,26,20 a 29,Isabel Leite,1,20 a 29
+614,Mayara,Soares,F,"1968-07-09 00:00:00,000",mayara62@uol.com,53,50 a 59,Mayara Soares,4,50 a 59
+617,Letícia,Leal,F,"1980-06-29 00:00:00,000",letícia48@terra.com.br,41,40 a 49,Letícia Leal,3,40 a 49
+618,Yasmim,Verly,F,"1998-03-05 00:00:00,000",yasmim60@outlook.com,23,20 a 29,Yasmim Verly,1,20 a 29
+619,Beatriz,Santos,F,"1962-07-04 00:00:00,000",beatriz22@msn.com.br,59,50 a 59,Beatriz Santos,4,50 a 59
+622,Marina,Marins,F,"1950-08-16 00:00:00,000",marina23@terra.com,71,+ 60,Marina Marins,5,+ 60
+623,Caroll,Johnson,F,"1991-04-30 00:00:00,000",caroll53@uol.com.br,30,30 a 39,Caroll Johnson,2,30 a 39
+624,Thainá,Binello,F,"1951-04-13 00:00:00,000",thainá29@outlook.com,70,+ 60,Thainá Binello,5,+ 60
+628,Isabel,Lacerda,F,"1990-08-14 00:00:00,000",isabel61@gmail.com.br,31,30 a 39,Isabel Lacerda,2,30 a 39
+629,Juliana,Barreira,F,"1973-03-12 00:00:00,000",juliana15@gmail.com.br,48,40 a 49,Juliana Barreira,3,40 a 49
+635,Adriana,Passos,F,"1996-01-01 00:00:00,000",adriana46@gmail.com,25,20 a 29,Adriana Passos,1,20 a 29
+638,Ananda,Dias,F,"1991-12-20 00:00:00,000",ananda67@icloud.com.br,29,20 a 29,Ananda Dias,1,20 a 29
+641,Thaís,Moura,F,"1997-08-27 00:00:00,000",thaís18@hotmail.com,24,20 a 29,Thaís Moura,1,20 a 29
+642,Nathalia,Ventura,F,"1998-11-24 00:00:00,000",nathalia49@hotmail.com,22,20 a 29,Nathalia Ventura,1,20 a 29
+643,Marcela,Gasperi,F,"1967-05-23 00:00:00,000",marcela65@msn.com.br,54,50 a 59,Marcela Gasperi,4,50 a 59
+644,Mariana,Rotava,F,"1966-12-09 00:00:00,000",mariana46@msn.com,54,50 a 59,Mariana Rotava,4,50 a 59
+645,Paula,Silva,F,"1958-09-09 00:00:00,000",paula27@icloud.com.br,63,+ 60,Paula Silva,5,+ 60
+646,Maria,Mello,F,"1958-08-23 00:00:00,000",maria64@live.com.br,63,+ 60,Maria Mello,5,+ 60
+647,Luana,Santos,F,"1981-05-20 00:00:00,000",luana11@icloud.com.br,40,40 a 49,Luana Santos,3,40 a 49
+649,Ana,Leite,F,"1958-11-05 00:00:00,000",ana50@yahoo.com.br,62,+ 60,Ana Leite,5,+ 60
+650,Carolina,Santos,F,"1954-04-07 00:00:00,000",carolina19@terra.com.br,67,+ 60,Carolina Santos,5,+ 60
+651,Clara,Silveira,F,"1987-01-22 00:00:00,000",clara34@uol.com,34,30 a 39,Clara Silveira,2,30 a 39
+652,Larissa,Cruz,F,"1990-06-04 00:00:00,000",larissa47@gmail.com.br,31,30 a 39,Larissa Cruz,2,30 a 39
+654,Carolina,Figueiredo,F,"1968-12-22 00:00:00,000",carolina35@hotmail.com.br,52,50 a 59,Carolina Figueiredo,4,50 a 59
+657,Luis,Villanova,F,"1984-11-28 00:00:00,000",luis45@msn.com,36,30 a 39,Luis Villanova,2,30 a 39
+660,Vivianne,Rodrigues,F,"1976-09-28 00:00:00,000",vivianne38@icloud.com,45,40 a 49,Vivianne Rodrigues,3,40 a 49
+663,Vanessa,Bach,F,"1975-08-05 00:00:00,000",vanessa41@gmail.com,46,40 a 49,Vanessa Bach,3,40 a 49
+667,Karoline,Miranda,F,"1995-03-06 00:00:00,000",karoline18@terra.com,26,20 a 29,Karoline Miranda,1,20 a 29
+672,Mônica,Rotolo,F,"1982-01-27 00:00:00,000",mônica45@icloud.com,39,30 a 39,Mônica Rotolo,2,30 a 39
+679,Daniela,Pereira,F,"1999-04-28 00:00:00,000",daniela10@yahoo.com,22,20 a 29,Daniela Pereira,1,20 a 29
+680,Fernanda,Coutinho,F,"1963-03-31 00:00:00,000",fernanda11@uol.com,58,50 a 59,Fernanda Coutinho,4,50 a 59
+681,Gabriela,Aliani,F,"1962-04-29 00:00:00,000",gabriela37@uol.com.br,59,50 a 59,Gabriela Aliani,4,50 a 59
+682,Lorena,Carvalho,F,"1970-10-17 00:00:00,000",lorena65@icloud.com,51,50 a 59,Lorena Carvalho,4,50 a 59
+685,Wen,Santos,F,"1973-09-13 00:00:00,000",wen19@outlook.com.br,48,40 a 49,Wen Santos,3,40 a 49
+686,Milena,Pereira,F,"1958-10-07 00:00:00,000",milena25@msn.com,63,+ 60,Milena Pereira,5,+ 60
+694,Isabela,Teixeira,F,"1994-09-05 00:00:00,000",isabela33@icloud.com,27,20 a 29,Isabela Teixeira,1,20 a 29
+695,Daniela,Braga,F,"1993-05-02 00:00:00,000",daniela58@yahoo.com,28,20 a 29,Daniela Braga,1,20 a 29
+697,Ana,Gonzaga,F,"1978-04-02 00:00:00,000",ana69@terra.com.br,43,40 a 49,Ana Gonzaga,3,40 a 49
+699,Rafaela,Gonçalves,F,"1959-05-06 00:00:00,000",rafaela49@live.com.br,62,+ 60,Rafaela Gonçalves,5,+ 60
+701,Giulia,Pessanha,F,"1998-01-22 00:00:00,000",giulia40@hotmail.com,23,20 a 29,Giulia Pessanha,1,20 a 29
+702,Bruna,Rangel,F,"1994-07-31 00:00:00,000",bruna34@live.com,27,20 a 29,Bruna Rangel,1,20 a 29
+705,Camilla,Cardeman,F,"1970-05-09 00:00:00,000",camilla59@gmail.com,51,50 a 59,Camilla Cardeman,4,50 a 59
+706,Thaís,Pereira,F,"1969-07-08 00:00:00,000",thaís38@msn.com,52,50 a 59,Thaís Pereira,4,50 a 59
+707,Isabelle,Ribeiro,F,"1991-03-28 00:00:00,000",isabelle33@live.com.br,30,30 a 39,Isabelle Ribeiro,2,30 a 39
+708,Camila,Sobral,F,"1997-06-04 00:00:00,000",camila69@icloud.com,24,20 a 29,Camila Sobral,1,20 a 29
+711,Andressa,Rotsztejn,F,"1977-08-02 00:00:00,000",andressa17@gmail.com.br,44,40 a 49,Andressa Rotsztejn,3,40 a 49
+712,Paola,Abreu,F,"1994-11-29 00:00:00,000",paola32@icloud.com.br,26,20 a 29,Paola Abreu,1,20 a 29
+713,Maria,Mendes,F,"1978-09-19 00:00:00,000",maria63@terra.com,43,40 a 49,Maria Mendes,3,40 a 49
+716,Cecília,Barros,F,"1971-06-02 00:00:00,000",cecília51@uol.com,50,50 a 59,Cecília Barros,4,50 a 59
+717,Maria,Correa,F,"1991-10-24 00:00:00,000",maria5@yahoo.com,29,20 a 29,Maria Correa,1,20 a 29
+719,Marina,Correa,F,"1983-12-05 00:00:00,000",marina59@hotmail.com.br,37,30 a 39,Marina Correa,2,30 a 39
+720,Ives,Barbosa,F,"1984-02-28 00:00:00,000",ives39@hotmail.com.br,37,30 a 39,Ives Barbosa,2,30 a 39
+723,Sandy,Ribeiro,F,"1973-01-22 00:00:00,000",sandy28@gmail.com,48,40 a 49,Sandy Ribeiro,3,40 a 49
+726,Livia,Pereira,F,"1991-01-09 00:00:00,000",livia13@msn.com,30,30 a 39,Livia Pereira,2,30 a 39
+730,Julia,Ribeiro,F,"1954-10-29 00:00:00,000",julia24@outlook.com,66,+ 60,Julia Ribeiro,5,+ 60
+732,Wendela,Veloso,F,"1996-06-06 00:00:00,000",wendela56@yahoo.com,25,20 a 29,Wendela Veloso,1,20 a 29
+734,Bruna,Miranda,F,"1951-11-09 00:00:00,000",bruna13@msn.com,69,+ 60,Bruna Miranda,5,+ 60
+735,Livia,Codeceira,F,"1990-07-26 00:00:00,000",livia66@msn.com,31,30 a 39,Livia Codeceira,2,30 a 39
+736,Adrielle,Gabriel,F,"1960-02-07 00:00:00,000",adrielle24@uol.com.br,61,+ 60,Adrielle Gabriel,5,+ 60
+737,Marina,Perdomo,F,"1994-03-16 00:00:00,000",marina30@outlook.com.br,27,20 a 29,Marina Perdomo,1,20 a 29
+738,Ives,Pinheiro,F,"1989-12-13 00:00:00,000",ives43@yahoo.com,31,30 a 39,Ives Pinheiro,2,30 a 39
+741,Bruna,Gomes,F,"1997-11-30 00:00:00,000",bruna53@hotmail.com.br,23,20 a 29,Bruna Gomes,1,20 a 29
+742,Maria,Costa,F,"1972-06-24 00:00:00,000",maria59@uol.com.br,49,40 a 49,Maria Costa,3,40 a 49
+749,Mariana,Freire,F,"1978-11-22 00:00:00,000",mariana70@msn.com,42,40 a 49,Mariana Freire,3,40 a 49
+750,Gabriela,Capitulo,F,"1976-12-17 00:00:00,000",gabriela51@terra.com.br,44,40 a 49,Gabriela Capitulo,3,40 a 49
+752,Victoria,Mazza,F,"1966-10-01 00:00:00,000",victoria53@msn.com.br,55,50 a 59,Victoria Mazza,4,50 a 59
+753,Mariana,Barrozo,F,"1967-05-02 00:00:00,000",mariana43@uol.com.br,54,50 a 59,Mariana Barrozo,4,50 a 59
+757,Ananda,Gouvêa,F,"1959-12-01 00:00:00,000",ananda31@yahoo.com.br,61,+ 60,Ananda Gouvêa,5,+ 60
+759,Julia,Leite,F,"1990-06-01 00:00:00,000",julia63@gmail.com,31,30 a 39,Julia Leite,2,30 a 39
+760,Deysiane,Bach,F,"1958-06-03 00:00:00,000",deysiane57@gmail.com.br,63,+ 60,Deysiane Bach,5,+ 60
+762,Carolina,Vasconcelos,F,"1983-08-25 00:00:00,000",carolina37@yahoo.com,38,30 a 39,Carolina Vasconcelos,2,30 a 39
+764,Maria,Fernandes,F,"1952-12-30 00:00:00,000",maria62@hotmail.com.br,68,+ 60,Maria Fernandes,5,+ 60
+769,Débora,Lopes,F,"1981-07-16 00:00:00,000",débora9@uol.com.br,40,40 a 49,Débora Lopes,3,40 a 49
+770,Bruna,Silva,F,"1976-06-10 00:00:00,000",bruna40@gmail.com.br,45,40 a 49,Bruna Silva,3,40 a 49
+771,Gabriella,Sagrillo,F,"1990-06-11 00:00:00,000",gabriella64@live.com,31,30 a 39,Gabriella Sagrillo,2,30 a 39
+776,Beatriz,Nogueira,F,"1984-06-23 00:00:00,000",beatriz39@yahoo.com,37,30 a 39,Beatriz Nogueira,2,30 a 39
+777,Joyce,Souza,F,"1961-04-22 00:00:00,000",joyce19@live.com.br,60,+ 60,Joyce Souza,5,+ 60
+778,Izabel,Fraga,F,"1989-10-28 00:00:00,000",izabel21@msn.com.br,31,30 a 39,Izabel Fraga,2,30 a 39
+779,Ingra,Carneiro,F,"1981-04-27 00:00:00,000",ingra57@icloud.com.br,40,40 a 49,Ingra Carneiro,3,40 a 49
+780,Tainah,Nogueira,F,"1982-08-18 00:00:00,000",tainah32@uol.com.br,39,30 a 39,Tainah Nogueira,2,30 a 39
+783,Roberta,Teixeira,F,"2000-03-18 00:00:00,000",roberta28@msn.com,21,20 a 29,Roberta Teixeira,1,20 a 29
+786,Caroline,Delgado,F,"1985-07-10 00:00:00,000",caroline38@yahoo.com,36,30 a 39,Caroline Delgado,2,30 a 39
+796,Lívia,Marques,F,"1975-09-28 00:00:00,000",lívia29@icloud.com,46,40 a 49,Lívia Marques,3,40 a 49
+798,Luiza,Procaci,F,"1993-06-02 00:00:00,000",luiza50@yahoo.com,28,20 a 29,Luiza Procaci,1,20 a 29
+800,Marina,Miranda,F,"1956-12-30 00:00:00,000",marina29@msn.com,64,+ 60,Marina Miranda,5,+ 60
+802,Thayane,Resende,F,"1988-07-13 00:00:00,000",thayane57@gmail.com.br,33,30 a 39,Thayane Resende,2,30 a 39
+805,Myllena,Corrêa,F,"1993-08-17 00:00:00,000",myllena7@yahoo.com,28,20 a 29,Myllena Corrêa,1,20 a 29
+806,Natali,Rangel,F,"1999-11-07 00:00:00,000",natali63@terra.com,21,20 a 29,Natali Rangel,1,20 a 29
+813,Jessica,Silva,F,"1989-07-08 00:00:00,000",jessica7@outlook.com.br,32,30 a 39,Jessica Silva,2,30 a 39
+817,Juliana,Goes,F,"1972-09-22 00:00:00,000",juliana63@msn.com.br,49,40 a 49,Juliana Goes,3,40 a 49
+822,Fernanda,Rubim,F,"1951-12-10 00:00:00,000",fernanda7@terra.com,69,+ 60,Fernanda Rubim,5,+ 60
