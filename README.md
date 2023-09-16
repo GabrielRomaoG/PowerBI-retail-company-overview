@@ -9,18 +9,19 @@ Eu criei um vídeo no linkedin explicando as melhorias que fiz e dando dicas par
 
 Está dividido em 3 abas:
 **Análise Geral**
- - Faturamento
- - Lucro
- - Custos
- - Ticket médio.
+  - Faturamento
+  - Lucro
+  - Custos
+  - Ticket médio.
 **Cliente**
- - Número de clientes
- - Faturamento e a quantidade de pedidos por cliente
- - Faturamento por faixa etária e por sexo
+  - Número de clientes
+  - Faturamento e a quantidade de pedidos por cliente
+  - Faturamento por faixa etária e por sexo
+
 **Produtos**
- - Quantida vendida e faturada de cada produto
- - Valor somado das devoluções
- - Quais marcas de produtos são mais representativas em questão de faturamento e lucro
+  - Quantida vendida e faturada de cada produto
+  - Valor somado das devoluções
+  - Quais marcas de produtos são mais representativas em questão de faturamento e lucro
  
 
         
