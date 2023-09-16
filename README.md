@@ -15,7 +15,7 @@ Está dividido em 3 abas:
   - Custos
   - Ticket médio.
 
-**Cliente**
+**Clientes**
   - Número de clientes
   - Faturamento e a quantidade de pedidos por cliente
   - Faturamento por faixa etária e por sexo
