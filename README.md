@@ -8,11 +8,13 @@ Eu criei um vídeo no linkedin explicando as melhorias que fiz e dando dicas par
 ## Conteúdo
 
 Está dividido em 3 abas:
+
 **Análise Geral**
   - Faturamento
   - Lucro
   - Custos
   - Ticket médio.
+
 **Cliente**
   - Número de clientes
   - Faturamento e a quantidade de pedidos por cliente
