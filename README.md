@@ -6,6 +6,13 @@ Nesse repo há duas versões, a primeira versão eu fiz assim que aprendi de usa
 
 Eu criei um vídeo no linkedin explicando as melhorias que fiz e dando dicas para novos analistas de dados: [Melhorando meu primeiro Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7060641765350866944/)
 
+## Link dos Dashboards
+
+A partir destes links você consegue testar a usabilidade dos dashboards:
+
+- [Primeira Versão](https://app.powerbi.com/view?r=eyJrIjoiZWJhMzJiZjctNmMxNC00MjUxLWIxNTMtOTA0ZmY1MWQ5N2U1IiwidCI6Ijk0YmFjNTZiLTRkNTAtNGNjZC1iZDJjLTQ1ZTYwNDUwNWRkMCJ9&pageName=ReportSection)
+- [Segunda Versão](https://app.powerbi.com/view?r=eyJrIjoiNmFlMDNjZmEtNTVhMy00M2Q3LWE5NGItNDMwZjQ4N2Y2YmQzIiwidCI6Ijk0YmFjNTZiLTRkNTAtNGNjZC1iZDJjLTQ1ZTYwNDUwNWRkMCJ9&pageName=ReportSection)
+
 ## Conteúdo
 
 Está dividido em 3 abas:
@@ -25,16 +32,20 @@ Está dividido em 3 abas:
   - Quantida vendida e faturada de cada produto
   - Valor somado das devoluções
   - Quais marcas de produtos são mais representativas em questão de faturamento e lucro
- 
 
-## Link dos Dashboards
+## Dataset
 
-A partir destes links você consegue testar a usabilidade dos dashboards:
+Infelizmente, eu perdi a base bruta dos dados, então eu só extrai o dataset tratado do Power BI e disponibilizei na pasta datasets.
 
-- [Primeira Versão](https://app.powerbi.com/view?r=eyJrIjoiZWJhMzJiZjctNmMxNC00MjUxLWIxNTMtOTA0ZmY1MWQ5N2U1IiwidCI6Ijk0YmFjNTZiLTRkNTAtNGNjZC1iZDJjLTQ1ZTYwNDUwNWRkMCJ9&pageName=ReportSection)
-- [Segunda Versão](https://app.powerbi.com/view?r=eyJrIjoiNmFlMDNjZmEtNTVhMy00M2Q3LWE5NGItNDMwZjQ4N2Y2YmQzIiwidCI6Ijk0YmFjNTZiLTRkNTAtNGNjZC1iZDJjLTQ1ZTYwNDUwNWRkMCJ9&pageName=ReportSection)
-        
+Créditos do dataset: [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 
+**Dimensões**
+- dCalendario
+- dClientes
+- dLojas
+- dProdutos
 
-
-
+**Fatos**
+- fVendas
+- fDevoluções
+- fMetaVendas
